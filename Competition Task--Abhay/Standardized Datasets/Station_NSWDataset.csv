@@ -1,0 +1,1011 @@
+Station_Id,Suburb,State_Code,Name,Lattitude,Longitude,Mode
+1,Aberdeen,NSW,"Macqueen St, Entrance through Stairs",-32.16689969,150.8919751,Train
+2,Aberdeen,NSW,"Macqueen St, Entrance through Ramp",-32.16688641,150.8919573,Train
+3,Adamstown,NSW,"Park Ave, Entrance through Path",-32.9337056,151.7204518,Train
+4,Adamstown,NSW,"St James Rd, Entrance through Stairs",-32.93341396,151.7203632,Train
+5,Adamstown,NSW,"St James Rd, Entrance through Ramp",-32.93340162,151.7203474,Train
+6,Adamstown,NSW,"Park Ave, Entrance through Path",-32.93382729,151.7202364,Train
+7,Albion Park,NSW,"Burroo St, Entrance through Ramp",-34.56340933,150.79939,Train
+8,Albion Park,NSW,"Princes Hwy, Entrance through Ramp",-34.56350712,150.7991893,Train
+9,Albion Park,NSW,"Princes Hwy, Entrance through Stairs",-34.56293995,150.798574,Train
+10,Albion Park,NSW,"Princes Hwy, Entrance through Ramp",-34.56278202,150.7984185,Train
+11,Allawah,NSW,"Railway Pde, Entrance through Ramp",-33.96996874,151.1149448,Train
+12,Allawah,NSW,"Roberts Lane, Entrance through Ramp",-33.96953727,151.1146945,Train
+13,Allawah,NSW,"Roberts Lane, Entrance through Stairs",-33.96949011,151.1145667,Train
+14,Allawah,NSW,"Railway Pde, Entrance through Lift",-33.96987782,151.1144352,Train
+15,Allawah,NSW,"Railway Pde, Entrance through Ramp",-33.96988689,151.1142405,Train
+16,Arlington LR,NSW,"Grove St, Entrance through Path",-33.9020453,151.1381593,Train
+17,Arlington LR,NSW,"Constitution Rd, Entrance through Path",-33.9020497,151.1380434,Train
+18,Arncliffe,NSW,"The Arcade , Entrance through Stairs",-33.93692447,151.1474278,Train
+19,Arncliffe,NSW,"The Arcade , Entrance through Lift",-33.93696302,151.1474227,Train
+20,Arncliffe,NSW,"Firth St, Entrance through Lift",-33.93677457,151.1468602,Train
+21,Arncliffe,NSW,"Firth St, Entrance through Stairs",-33.93671781,151.1468509,Train
+22,Artarmon,NSW,"Valetta Lane, Entrance through Ramp",-33.80823377,151.1847419,Train
+23,Artarmon,NSW,"Hampden Rd, Entrance through Lift",-33.80875941,151.1847201,Train
+24,Artarmon,NSW,"Hampden Rd, Entrance through Stairs",-33.80854065,151.1844285,Train
+25,Ashfield,NSW,"Station St, Entrance through Lift",-33.88744211,151.1259581,Train
+26,Ashfield,NSW,"Station St, Entrance through Stairs",-33.88739665,151.1258025,Train
+27,Ashfield,NSW,"Brown St, Entrance through Lift",-33.88789161,151.1257974,Train
+28,Ashfield,NSW,"Brown  St, Entrance through Stairs",-33.887775,151.1255397,Train
+29,Asquith,NSW,"Haldane St, Entrance through Path",-33.68869132,151.1082656,Train
+30,Asquith,NSW,"Pacific Hwy, Entrance through Ramp",-33.68848916,151.1079991,Train
+31,Auburn,NSW,"Rawson St, Entrance through Ramp",-33.8492876,151.0332914,Train
+32,Auburn,NSW,"South Pde, Entrance through Stairs",-33.849663,151.0329192,Train
+33,Auburn,NSW,"South Pde, Entrance through Ramp",-33.84946375,151.0327209,Train
+34,Austinmer,NSW,"Gilchrist St, Entrance through Path",-34.3065205,150.9293511,Train
+35,Austinmer,NSW,"Railway Ave, Entrance through Path",-34.30650136,150.9289071,Train
+36,Awaba,NSW,"Adelaide St, Entrance through Ramp",-33.0129167,151.5421589,Train
+37,Awaba,NSW,"Adelaide St, Entrance through Path",-33.01291676,151.5421328,Train
+38,Awaba,NSW,"Wilton Rd, Entrance through Ramp",-33.01310914,151.5420747,Train
+39,Banksia,NSW,"Hattersley St, Entrance through Ramp",-33.94490035,151.140849,Train
+40,Banksia,NSW,"Railway St, Entrance through Ramp",-33.94479129,151.1404987,Train
+41,Banksia,NSW,"Railway St, Entrance through Stairs",-33.94488347,151.1404482,Train
+42,Bankstown,NSW,"North Tce, Entrance through Ramp",-33.91768635,151.0342697,Train
+43,Bankstown,NSW,"Bankstown City Plza, Entrance through Path",-33.91805216,151.03411,Train
+44,Bankstown,NSW,"Bankstown City Plza, Entrance through Path",-33.91778824,151.0337625,Train
+45,Bardwell Park,NSW,"Hartill Law Ave, Entrance through Stairs",-33.93137824,151.125379,Train
+46,Bargo,NSW,"Great Southern Rd, Entrance through Path",-34.29097858,150.5801756,Train
+47,Bargo,NSW,"Great Southern Rd, Entrance through Ramp",-34.29098411,150.5801501,Train
+48,Bargo,NSW,"Railside Ave, Entrance through Ramp",-34.29100778,150.5800205,Train
+49,Bargo,NSW,"Railside Ave, Entrance through Path",-34.29104476,150.5800077,Train
+50,Beecroft,NSW,"Sutherland Rd, Entrance through Path",-33.74921627,151.0667339,Train
+51,Beecroft,NSW,"Wongala Cres, Entrance through Path",-33.74904472,151.0663377,Train
+52,Beecroft,NSW,"Wongala Cres, Entrance through Path",-33.74923381,151.0662247,Train
+53,Bell,NSW,"Sandham  Rd, Entrance through Ramp",-33.5061656,150.2793612,Train
+54,Bell,NSW,"Chiefley Rd, Entrance through Stairs",-33.50623435,150.2790794,Train
+55,Bellambi,NSW,"Bellambi Lane, Entrance through Ramp",-34.36261281,150.9101311,Train
+56,Belmore,NSW,"Burwood Rd, Entrance through Lift",-33.91724884,151.0883372,Train
+57,Belmore,NSW,"Burwood Rd, Entrance through Stairs",-33.91722736,151.0883244,Train
+58,Berala,NSW,"Campbell St, Entrance through Path",-33.8719773,151.0328288,Train
+59,Berala,NSW,"Woodburn Rd, Entrance through Path",-33.87139384,151.0323272,Train
+60,Beresfield,NSW,"Lawson Ave, Entrance through Stairs",-32.79940714,151.6585784,Train
+61,Beresfield,NSW,"Addison St, Entrance through Stairs",-32.79958398,151.658334,Train
+62,Beresfield,NSW,"Addison St, Entrance through Lift",-32.79947121,151.6581617,Train
+63,Berowra,NSW,"Pacific Hwy, Entrance through Ramp",-33.62291449,151.1535638,Train
+64,Berowra,NSW,"Pacific Hwy, Entrance through Ramp",-33.62300205,151.1531421,Train
+65,Berry,NSW,"Station Rd, Entrance through Path",-34.78027342,150.6967235,Train
+66,Beverly Hills,NSW,"King Georges Rd, Entrance through Stairs",-33.94914069,151.0808676,Train
+67,Beverly Hills,NSW,"King Georges Rd, Entrance through Lift",-33.94913026,151.0808291,Train
+68,Beverly Hills,NSW,"King Georges Rd, Entrance through Stairs",-33.94926254,151.0804784,Train
+69,Bexley North,NSW,"Bexley Rd, Entrance through Stairs",-33.9374812,151.1139261,Train
+70,Birrong,NSW,"Avalon St, Entrance through Stairs",-33.89253644,151.0243134,Train
+71,Blackheath,NSW,"Great Western Hwy, Entrance through Stairs",-33.63397248,150.2845903,Train
+72,Blackheath,NSW,"Station St, Entrance through Stairs",-33.63400546,150.2842535,Train
+73,Blacktown,NSW,"First Ave, Entrance through Stairs",-33.76777702,150.9080196,Train
+74,Blacktown,NSW,"First Ave, Entrance through Stairs",-33.7677336,150.9079689,Train
+75,Blacktown,NSW,"First Ave, Entrance through Lift",-33.76775412,150.9079614,Train
+76,Blacktown,NSW,"Jim Simpson Lane, Entrance through Stairs",-33.76894183,150.9073054,Train
+77,Blacktown,NSW,"Jim Simpson Lane, Entrance through Escalators",-33.76896727,150.9072963,Train
+78,Blacktown,NSW,"Old Richmond Rd, Entrance through Lift",-33.7678292,150.9071472,Train
+79,Blacktown,NSW,"Patrick St, Entrance through Lift",-33.76889928,150.9070828,Train
+80,Blacktown,NSW,"Patrick St, Entrance through Stairs",-33.76903303,150.9069899,Train
+81,Blacktown,NSW,"Old Richmond Rd, Entrance through Stairs",-33.76779802,150.9069245,Train
+82,Blaxland,NSW,"Wilson Way, Entrance through Lift",-33.74369934,150.6099627,Train
+83,Blaxland,NSW,"Wilson Way, Entrance through Stairs",-33.74366205,150.6098058,Train
+84,Blaxland,NSW,"Great Western Hwy, Entrance through Stairs",-33.7438036,150.6096862,Train
+85,Blaxland,NSW,"Great Western Hwy, Entrance through Ramp",-33.74411767,150.6093887,Train
+86,Blaxland,NSW,"Great Western Hwy, Entrance through Stairs",-33.74404944,150.6093287,Train
+87,Bomaderry,NSW,"Meroo St, Entrance through Path",-34.85374494,150.6097702,Train
+88,Bombo,NSW,"Princes Hwy, Entrance through Stairs",-34.65868669,150.8537686,Train
+89,Bombo,NSW,"Princes Hwy, Entrance through Ramp",-34.65885576,150.8537564,Train
+90,Bondi Junction,NSW,"Grafton St, Entrance through Stairs",-33.89103017,151.2485965,Train
+91,Bondi Junction,NSW,"Rowe St, Entrance through Ramp",-33.89186986,151.2483663,Train
+92,Bondi Junction,NSW,"Grafton St, Entrance through Stairs",-33.89099409,151.2482086,Train
+93,Booragul,NSW,"Fourth St, Entrance through Ramp",-32.97169903,151.605168,Train
+94,Booragul,NSW,"Station St, Entrance through Ramp",-32.97190014,151.6047908,Train
+95,Bowral,NSW,"Station St, Entrance through Path",-34.47792483,150.4169743,Train
+96,Bowral,NSW,"Kirkham  Rd, Entrance through Path",-34.47763745,150.4167974,Train
+97,Bowral,NSW,"Wingercarribee St, Entrance through Stairs",-34.47841685,150.4165949,Train
+98,Bowral,NSW,"Wingercarribee St, Entrance through Lift",-34.47837068,150.4165765,Train
+99,Bowral,NSW,"Wingercarribee St, Entrance through Lift",-34.47827715,150.4163947,Train
+100,Bowral,NSW,"Kirkham  Rd, Entrance through Stairs",-34.47822202,150.4163793,Train
+101,Branxton,NSW,"Railway St, Entrance through Ramp",-32.66221027,151.3459324,Train
+102,Branxton,NSW,"Railway St, Entrance through Ramp",-32.66209242,151.3455358,Train
+103,Broadmeadow,NSW,"Graham Rd, Entrance through Stairs",-32.92269277,151.7354129,Train
+104,Broadmeadow,NSW,"Brown Rd, Entrance through Ramp",-32.92216413,151.7352213,Train
+105,Broadmeadow,NSW,"Graham Rd, Entrance through Ramp",-32.92289153,151.7350658,Train
+106,Broadmeadow,NSW,"Brown Rd, Entrance through Stairs",-32.92236891,151.7349462,Train
+107,Bullaburra,NSW,"Great Western Hwy, Entrance through Ramp",-33.72351988,150.4152013,Train
+108,Bullaburra,NSW,"Railway Pde, Entrance through Stairs",-33.72316759,150.4149891,Train
+109,Bulli,NSW,"Park Rd, Entrance through Lift",-34.33384472,150.9150696,Train
+110,Bulli,NSW,"Park Rd, Entrance through Lift",-34.3338201,150.9149316,Train
+111,Bulli,NSW,"Franklin Ave, Entrance through Path",-34.33428666,150.9149143,Train
+112,Bulli,NSW,"Railway St, Entrance through Path",-34.33433961,150.9146887,Train
+113,Bundanoon,NSW,"Erith St, Entrance through Ramp",-34.6557524,150.2997407,Train
+114,Bundanoon,NSW,"Church St, Entrance through Path",-34.65604988,150.2995728,Train
+115,Burradoo,NSW,"Burradoo Rd, Entrance through Path",-34.49418601,150.3981296,Train
+116,Burradoo,NSW,"Burradoo Rd, Entrance through Ramp",-34.49418573,150.3978582,Train
+117,Burwood,NSW,"Burwood Rd, Entrance through Stairs",-33.87704552,151.1038525,Train
+118,Burwood,NSW,"Burwood Rd, Entrance through Path",-33.87718853,151.1038248,Train
+119,Cabramatta,NSW,"Broomfield St, Entrance through Lift",-33.89464265,150.9391047,Train
+120,Cabramatta,NSW,"Broomfield St, Entrance through Stairs",-33.89480632,150.9390481,Train
+121,Cabramatta,NSW,"Railway Pde, Entrance through Lift",-33.89459892,150.9388134,Train
+122,Cabramatta,NSW,"Railway Pde, Entrance through Ramp",-33.89494229,150.9387321,Train
+123,Cabramatta,NSW,"Railway Pde, Entrance through Path",-33.89510227,150.9386596,Train
+124,Camellia,NSW,"Grand Ave, Entrance through Ramp",-33.81918103,151.024141,Train
+125,Campbelltown,NSW,"Railway St, Entrance through Ramp",-34.06418971,150.8148139,Train
+126,Campbelltown,NSW,"Hurley St, Entrance through Lift",-34.06359144,150.8147393,Train
+127,Campbelltown,NSW,"Hurley St, Entrance through Path",-34.06369952,150.8146228,Train
+128,Campbelltown,NSW,"Hurley St, Entrance through Stairs",-34.06367954,150.8146141,Train
+129,Campbelltown,NSW,"Farrow Rd, Entrance through Stairs",-34.06302424,150.8144097,Train
+130,Campbelltown,NSW,"Hurley St, Entrance through Lift",-34.06320084,150.8143088,Train
+131,Campbelltown,NSW,"Farrow Rd, Entrance through Stairs",-34.06332332,150.8140219,Train
+132,Campsie,NSW,"Beamish St, Entrance through Ramp",-33.91049597,151.103574,Train
+133,Campsie,NSW,"Beamish St, Entrance through Ramp",-33.91039285,151.1035577,Train
+134,Canley Vale,NSW,"First Ave, Entrance through Stairs",-33.88744308,150.9436897,Train
+135,Canley Vale,NSW,"First Ave, Entrance through Ramp",-33.88746282,150.9436297,Train
+136,Canley Vale,NSW,"Railway Pde, Entrance through Stairs",-33.88723441,150.9434805,Train
+137,Canley Vale,NSW,"Railway Pde, Entrance through Ramp",-33.88734662,150.9434198,Train
+138,Canterbury,NSW,"Canterbury Rd, Entrance through Path",-33.9121163,151.1190137,Train
+139,Capitol Square LR,NSW,"Hay St, Entrance through Path",-33.87970841,151.2055584,Train
+140,Capitol Square LR,NSW,"Hay St, Entrance through Path",-33.87980415,151.205512,Train
+141,Cardiff,NSW,"Main Rd, Entrance through Path",-32.9412794,151.6628198,Train
+142,Cardiff,NSW,"Mary St, Entrance through Stairs",-32.94145731,151.6623011,Train
+143,Cardiff,NSW,"Mary St, Entrance through Lift",-32.94140925,151.6622554,Train
+144,Caringbah,NSW,"Kingsway , Entrance through Lift",-34.04162513,151.1219142,Train
+145,Caringbah,NSW,"Kingsway , Entrance through Stairs",-34.04157881,151.121856,Train
+146,Carlingford,NSW,"Lloyds Ave, Entrance through Path",-33.78217116,151.047273,Train
+147,Carlingford,NSW,"James St, Entrance through Path",-33.7821273,151.0468442,Train
+148,Carlingford,NSW,"Lloyds Ave, Entrance through Ramp",-33.78270924,151.046786,Train
+149,Carlingford,NSW,"Lloyds Ave, Entrance through Path",-33.78287488,151.0466571,Train
+150,Carlingford,NSW,"Pennant Hills Rd, Entrance through Path",-33.78304357,151.0463511,Train
+151,Carlton,NSW,"Railway Pde, Entrance through Lift",-33.96842236,151.1245362,Train
+152,Carlton,NSW,"Carlton Pde, Entrance through Lift",-33.96801021,151.1243905,Train
+153,Carlton,NSW,"Railway Pde, Entrance through Stairs",-33.96846874,151.1243442,Train
+154,Carlton,NSW,"Carlton Pde, Entrance through Stairs",-33.96809212,151.1242377,Train
+155,Carlton,NSW,"Carlton Pde, Entrance through Ramp",-33.96798067,151.1241795,Train
+156,Carramar,NSW,"Sandal Cres, Entrance through Path",-33.88476847,150.9607298,Train
+157,Carramar,NSW,"Carramar Ave, Entrance through Path",-33.88431636,150.9605645,Train
+158,Casula,NSW,"Casula Rd, Entrance through Stairs",-33.95004957,150.9121379,Train
+159,Casula,NSW,"Casula Rd, Entrance through Lift",-33.95035283,150.9120798,Train
+160,Casula,NSW,"Casula Rd, Entrance through Lift",-33.9501874,150.9117283,Train
+161,Casula,NSW,"Casula Rd, Entrance through Path",-33.95036803,150.9117058,Train
+162,Casula,NSW,"Casula Rd, Entrance through Stairs",-33.9503293,150.9116866,Train
+163,Central,NSW,"Elizabeth St, Entrance through Ramp",-33.88352173,151.2079563,Train
+164,Central,NSW,"Elizabeth St, Entrance through Lift",-33.88371032,151.2078995,Train
+165,Central,NSW,"Elizabeth St, Entrance through Stairs",-33.88378577,151.207862,Train
+166,Central,NSW,"Eddy Ave, Entrance through Stairs",-33.88302433,151.2070762,Train
+167,Central,NSW,"Eddy Ave, Entrance through Escalators",-33.8832082,151.2070112,Train
+168,Central,NSW,"Eddy Ave, Entrance through Lift",-33.88353624,151.2069711,Train
+169,Central,NSW,"Eddy Ave, Entrance through Path",-33.88253976,151.2068849,Train
+170,Central,NSW,"Chalmers St, Entrance through Lift",-33.88541283,151.2068475,Train
+171,Central,NSW,"Chalmers St, Entrance through Escalators",-33.88544474,151.206822,Train
+172,Central,NSW,"Chalmers St, Entrance through Stairs",-33.88547844,151.2067901,Train
+173,Central,NSW,"Eddy Ave, Entrance through Path",-33.88233009,151.2065038,Train
+174,Central,NSW,"Eddy Ave, Entrance through Stairs",-33.88210298,151.2061254,Train
+175,Central,NSW,"Eddy Ave, Entrance through Escalators",-33.88213747,151.2060987,Train
+176,Central,NSW,"Pitt St, Entrance through Path",-33.88236674,151.2058136,Train
+177,Central,NSW,"Lee St, Entrance through Path",-33.88398512,151.2042663,Train
+178,Chatswood,NSW,"Post Office Lane, Entrance through Stairs",-33.79722746,151.1814421,Train
+179,Chatswood,NSW,"Post Office Lane, Entrance through Escalators",-33.79718558,151.1814287,Train
+180,Chatswood,NSW,"Orchard Rd, Entrance through Stairs",-33.79677523,151.1813805,Train
+181,Chatswood,NSW,"Orchard Rd, Entrance through Escalators",-33.79673649,151.1813641,Train
+182,Chatswood,NSW,"Post Office Lane, Entrance through Lift",-33.79717607,151.1813031,Train
+183,Chatswood,NSW,"Thomas St, Entrance through Lift",-33.79765173,151.1812637,Train
+184,Chatswood,NSW,"Thomas St, Entrance through Stairs",-33.79766719,151.1811813,Train
+185,Chatswood,NSW,"Orchard Rd, Entrance through Lift",-33.79673526,151.1811761,Train
+186,Chatswood,NSW,"Railway St, Entrance through Lift",-33.79689881,151.1807121,Train
+187,Chatswood,NSW,"Thomas Lane, Entrance through Lift",-33.7979301,151.1806933,Train
+188,Chatswood,NSW,"Railway St, Entrance through Stairs",-33.79709534,151.1806738,Train
+189,Chatswood,NSW,"Thomas St, Entrance through Stairs",-33.797903,151.180647,Train
+190,Chatswood,NSW,"Railway St, Entrance through Escalators",-33.79705047,151.1805363,Train
+191,Chatswood,NSW,"Railway St, Entrance through Stairs",-33.79701563,151.1805215,Train
+192,Cheltenham,NSW,"Cheltenham Rd, Entrance through Stairs",-33.75539745,151.0781497,Train
+193,Cheltenham,NSW,"Cheltenham Rd, Entrance through Lift",-33.75543909,151.0781092,Train
+194,Chester Hil,NSW,"Chester Hill Rd, Entrance through Path",-33.88368818,151.0004627,Train
+195,Circular Quay,NSW,"Alfred St, Entrance through Stairs",-33.86146378,151.2107945,Train
+196,Circular Quay,NSW,"Alfred St, Entrance through Escalators",-33.86127776,151.2107739,Train
+197,Circular Quay,NSW,"Alfred St, Entrance through Escalators",-33.86143954,151.2107457,Train
+198,Circular Quay,NSW,"Alfred St, Entrance through Lift",-33.86124347,151.2107343,Train
+199,Circular Quay,NSW,"Alfred St, Entrance through Lift",-33.86146637,151.2107121,Train
+200,Circular Quay,NSW,"Alfred St, Entrance through Stairs",-33.86131441,151.2106592,Train
+201,Circular Quay,NSW,"Alfred St, Entrance through Stairs",-33.86131245,151.2106239,Train
+202,Circular Quay,NSW,"Alfred St, Entrance through Stairs",-33.86138049,151.2106156,Train
+203,Circular Quay,NSW,"Alfred St, Entrance through Escalators",-33.86125995,151.2105656,Train
+204,Circular Quay,NSW,"Alfred St, Entrance through Escalators",-33.86139905,151.2103289,Train
+205,Clarendon,NSW,"Racecource Rd, Entrance through Ramp",-33.60844245,150.7878928,Train
+206,Clarendon,NSW,"Racecource Rd, Entrance through Path",-33.60848854,150.787844,Train
+207,Clarendon,NSW,"Racecource Rd, Entrance through Ramp",-33.60859421,150.7877637,Train
+208,Clyde,NSW,"Berry St, Entrance through Ramp",-33.83554673,151.0170387,Train
+209,Clyde,NSW,"Factory St, Entrance through Ramp",-33.83606198,151.0165639,Train
+210,Coalcliff,NSW,"Lawrence Hargrave  Dr, Entrance through Stairs",-34.24253571,150.977052,Train
+211,Cockle Creek,NSW,"Lake Rd, Entrance through Stairs",-32.94246711,151.6244306,Train
+212,Cockle Creek,NSW,"Creek Reserve Rd, Entrance through Path",-32.94287548,151.6238126,Train
+213,Coledale,NSW,"Cater St, Entrance through Stairs",-34.28989285,150.943031,Train
+214,Como,NSW,"Railway Rd, Entrance through Stairs",-34.00454075,151.0683305,Train
+215,Como,NSW,"Railway Rd, Entrance through Stairs",-34.00437623,151.068248,Train
+216,Como,NSW,"Como Pde, Entrance through Ramp",-34.00447157,151.0676891,Train
+217,Concord West,NSW,"Queen St, Entrance through Stairs",-33.84809272,151.0859526,Train
+218,Concord West,NSW,"Queen St, Entrance through Lift",-33.84803171,151.0859019,Train
+219,Concord West,NSW,"King St, Entrance through Stairs",-33.84821375,151.0852126,Train
+220,Concord West,NSW,"King St, Entrance through Lift",-33.84808986,151.0851995,Train
+221,Concord West,NSW,"King St, Entrance through Stairs",-33.84795404,151.0851904,Train
+222,Coniston,NSW,"Bridge St, Entrance through Stairs",-34.43823905,150.8851205,Train
+223,Coniston,NSW,"Gladsone Ave, Entrance through Ramp",-34.43796566,150.884845,Train
+224,Convention Centre LR,NSW,"Darling Dr, Entrance through Ramp",-33.87286403,151.1981517,Train
+225,Corrimal,NSW,"Duff Pde, Entrance through Path",-34.37549456,150.9051489,Train
+226,Corrimal,NSW,"Railway St, Entrance through Path",-34.37567312,150.9048905,Train
+227,Cowan,NSW,"Pacific Hwy, Entrance through Ramp",-33.59298034,151.171638,Train
+228,Cowan,NSW,"Pacific Hwy, Entrance through Ramp",-33.5937893,151.1715651,Train
+229,Cringila,NSW,"Central Rd, Entrance through Stairs",-34.46708061,150.8799583,Train
+230,Cringila,NSW,"Five Island Rd, Entrance through Stairs",-34.46737362,150.8782723,Train
+231,Cronulla,NSW,"Cronulla St, Entrance through Path",-34.05684046,151.1517217,Train
+232,Cronulla,NSW,"Cronulla St, Entrance through Path",-34.05572731,151.1515991,Train
+233,Cronulla,NSW,"Cronulla St, Entrance through Path",-34.05535773,151.1514348,Train
+234,Croydon,NSW,"Hennessy St, Entrance through Ramp",-33.88283666,151.1155154,Train
+235,Croydon,NSW,"Paisley Rd, Entrance through Stairs",-33.8831857,151.1150828,Train
+236,Dapto,NSW,"Station St, Entrance through Path",-34.4923588,150.7922224,Train
+237,Dapto,NSW,"Staiton St, Entrance through Path",-34.49307785,150.7918339,Train
+238,Dapto,NSW,"Bong Bong Rd, Entrance through Path",-34.49348285,150.7914602,Train
+239,Dapto,NSW,"Bong Bong Rd, Entrance through Path",-34.493435,150.7913065,Train
+240,Denistone,NSW,"Gordon Cres, Entrance through Path",-33.79951928,151.0867539,Train
+241,Domestic,NSW,"Keith Smith Ave, Entrance through Stairs",-33.93362671,151.1805736,Train
+242,Domestic,NSW,"Keith Smith Ave, Entrance through Lift",-33.93356911,151.1805681,Train
+243,Domestic,NSW,"Keith Smith Ave, Entrance through Stairs",-33.93400809,151.1801419,Train
+244,Domestic,NSW,"Keith Smith Ave, Entrance through Escalators",-33.93400343,151.1801133,Train
+245,Domestic,NSW,"Keith Smith Ave, Entrance through Lift",-33.93398698,151.1800496,Train
+246,Doonside,NSW,"School Pde, Entrance through Ramp",-33.76401541,150.8692816,Train
+247,Doonside,NSW,"Cross St, Entrance through Ramp",-33.76362795,150.8692347,Train
+248,Dora Creek,NSW,"Main Rd, Entrance through Path",-33.0838231,151.5010419,Train
+249,Dora Creek,NSW,"Newport Rd, Entrance through Stairs",-33.08411433,151.5008644,Train
+250,Dora Creek,NSW,"Newport Rd, Entrance through Stairs",-33.08402158,151.500698,Train
+251,Douglas Park,NSW,"Camden Rd, Entrance through Path",-34.18323382,150.7105466,Train
+252,Douglas Park,NSW,"Camden Rd, Entrance through Path",-34.18330344,150.7105388,Train
+253,Dulwich Grove LR,NSW,"New Canterbury Rd, Entrance through Stairs",-33.904761,151.1390021,Train
+254,Dulwich Grove LR,NSW,"New Canterbury Rd, Entrance through Lift",-33.9047721,151.1389753,Train
+255,Dulwich Hill LR,NSW,"Bedford Cres, Entrance through Stairs",-33.9106718,151.1405847,Train
+256,Dulwich Hill LR,NSW,"Bedford Cres, Entrance through Lift",-33.9106266,151.1405558,Train
+257,Dundas,NSW,"Station St, Entrance through Path",-33.80402698,151.0331103,Train
+258,Dundas,NSW,"Kissing Point Rd, Entrance through Ramp",-33.80388354,151.0329178,Train
+259,Dundas,NSW,"Kissing Point Rd, Entrance through Stairs",-33.80389499,151.0328954,Train
+260,Dundas,NSW,"Kissing Point Rd, Entrance through Path",-33.80339752,151.032467,Train
+261,Dungog,NSW,"Brown St, Entrance through Ramp",-32.40255754,151.759385,Train
+262,Dungog,NSW,"Brown St, Entrance through Stairs",-32.40249309,151.759251,Train
+263,East Hills,NSW,"Thompson Lane, Entrance through Path",-33.96201112,150.9847269,Train
+264,East Hills,NSW,"Park Rd, Entrance through Ramp",-33.96157358,150.9844493,Train
+265,East Hills,NSW,"Park Rd, Entrance through Stairs",-33.96164228,150.9843435,Train
+266,East Hills,NSW,"Park Rd, Entrance through Ramp",-33.96173087,150.9842552,Train
+267,East Maitland,NSW,"Melbourne St, Entrance through Stairs",-32.74457268,151.5874741,Train
+268,East Richmond,NSW,"Bourke St, Entrance through Ramp",-33.60180319,150.7588294,Train
+269,East Richmond,NSW,"Bourke St, Entrance through Stairs",-33.6017457,150.7587291,Train
+270,Eastwood,NSW,"Railway Pde, Entrance through Ramp",-33.78992993,151.0826671,Train
+271,Eastwood,NSW,"Railway Pde, Entrance through Ramp",-33.79041058,151.0826361,Train
+272,Eastwood,NSW,"Railway Pde, Entrance through Lift",-33.79017064,151.0825639,Train
+273,Eastwood,NSW,"West Pde, Entrance through Lift",-33.79014905,151.0820022,Train
+274,Eastwood,NSW,"West Pde, Entrance through Path",-33.79014802,151.0819726,Train
+275,Edgecliff,NSW,"New South Head Rd, Entrance through Path",-33.87893677,151.236154,Train
+276,Edmondson Park,NSW,"Soliders Pde, Entrance through Lift",-33.96930476,150.8588642,Train
+277,Edmondson Park,NSW,"Soliders Pde, Entrance through Stairs",-33.96936246,150.8588449,Train
+278,Emu Plains,NSW,"Old Bathurst Rd, Entrance through Stairs",-33.74577768,150.6714125,Train
+279,Emu Plains,NSW,"Mackellar St, Entrance through Stairs",-33.74552422,150.6713807,Train
+280,Emu Plains,NSW,"Old Bathurst Rd, Entrance through Lift",-33.74582701,150.6713326,Train
+281,Emu Plains,NSW,"Mackellar St, Entrance through Lift",-33.74565742,150.6712836,Train
+282,Engadine,NSW,"Princes Hwy, Entrance through Ramp",-34.06753979,151.0148428,Train
+283,Engadine,NSW,"Princes Hwy, Entrance through Ramp",-34.06719539,151.0147353,Train
+284,Engadine,NSW,"Princes Hwy, Entrance through Lift",-34.06776904,151.0146815,Train
+285,Engadine,NSW,"Princes Hwy, Entrance through Lift",-34.06738183,151.0145516,Train
+286,Epping,NSW,"Langston Pl, Entrance through Path",-33.77254801,151.0822785,Train
+287,Epping,NSW,"Beecroft Rd, Entrance through Stairs",-33.77284112,151.0818724,Train
+288,Epping,NSW,"Beecroft Rd, Entrance through Lift",-33.77265225,151.0818045,Train
+289,Epping,NSW,"Beecroft Rd, Entrance through Stairs",-33.77291584,151.0816408,Train
+290,Epping,NSW,"Beecroft Rd, Entrance through Lift",-33.77272037,151.0815679,Train
+291,Ersineville,NSW,"Erskineville Rd, Entrance through Path",-33.90005302,151.1855565,Train
+292,Exeter,NSW,"Ringwood Rd, Entrance through Path",-34.61346677,150.3177998,Train
+293,Exeter,NSW,"Bundanoon Rd, Entrance through Path",-34.61337723,150.3173592,Train
+294,Exhibition Centre LR,NSW,"Darling Dr, Entrance through Ramp",-33.87677819,151.1994751,Train
+295,Exhibition Centre LR,NSW,"Pyrmont St, Entrance through Stairs",-33.87678771,151.1992504,Train
+296,Fairfield,NSW,"Dale St, Entrance through Path",-33.87255271,150.957049,Train
+297,Fairfield,NSW,"Dale St, Entrance through Stairs",-33.87250991,150.9570068,Train
+298,Fairfield,NSW,"The Crescent , Entrance through Path",-33.87228222,150.9568998,Train
+299,Fairfield,NSW,"The Crescent , Entrance through Stairs",-33.87238918,150.9568642,Train
+300,Fairfield,NSW,"Dale St, Entrance through Lift",-33.87264464,150.9568189,Train
+301,Fairfield,NSW,"The Crescent , Entrance through Lift",-33.87249718,150.956712,Train
+302,Fairy Meadow,NSW,"Elliotts Rd, Entrance through Stairs",-34.39509691,150.8965771,Train
+303,Fairy Meadow,NSW,"Elliotts Rd, Entrance through Stairs",-34.39505996,150.8964522,Train
+304,Fassifern,NSW,"Tucker Cl, Entrance through Ramp",-32.98567466,151.5812081,Train
+305,Fassifern,NSW,"Tucker Cl, Entrance through Stairs",-32.98568106,151.5811753,Train
+306,Fassifern,NSW,"Tucker Cl, Entrance through Ramp",-32.98557663,151.5808417,Train
+307,Faulconbridge,NSW,"Great Western Hwy, Entrance through Ramp",-33.69681647,150.5349352,Train
+308,Faulconbridge,NSW,"Great Western Hwy, Entrance through Stairs",-33.69678014,150.5349261,Train
+309,Faulconbridge,NSW,"Great Western Hwy, Entrance through Stairs",-33.69654047,150.534819,Train
+310,Faulconbridge,NSW,"Great Western Hwy, Entrance through Stairs",-33.69633199,150.534567,Train
+311,Faulconbridge,NSW,"Great Western Hwy, Entrance through Ramp",-33.69636984,150.5344309,Train
+312,Fish Market LR,NSW,"Miller St, Entrance through Path",-33.87046367,151.1921783,Train
+313,Fish Market LR,NSW,"Miller St, Entrance through Path",-33.87076898,151.1916529,Train
+314,Flemington,NSW,"The Crescent , Entrance through Stairs",-33.86515478,151.0706765,Train
+315,Flemington,NSW,"The Crescent , Entrance through Stairs",-33.86389281,151.0702391,Train
+316,Gerringong,NSW,"Belinda St, Entrance through Ramp",-34.74477882,150.8176504,Train
+317,Glebe LR,NSW,"Burton St, Entrance through Stairs",-33.87707686,151.1875647,Train
+318,Glebe LR,NSW,"Bayview St, Entrance through Ramp",-33.87729496,151.187253,Train
+319,Glenbrook,NSW,"Burfitt Pde, Entrance through Ramp",-33.76902646,150.6212638,Train
+320,Glenfield,NSW,"Railway Pde, Entrance through Stairs",-33.97207776,150.8935775,Train
+321,Glenfield,NSW,"service road , Entrance through Stairs",-33.97173912,150.893269,Train
+322,Glenfield,NSW,"Railway Pde, Entrance through Lift",-33.97228674,150.8932557,Train
+323,Glenfield,NSW,"service road , Entrance through Lift",-33.97183034,150.8931736,Train
+324,Glenfield,NSW,"Railway Pde, Entrance through Stairs",-33.9724757,150.8931251,Train
+325,Gordon,NSW,"Werona Ave, Entrance through Ramp",-33.75598413,151.1548641,Train
+326,Gordon,NSW,"Werona Ave, Entrance through Ramp",-33.75535054,151.154396,Train
+327,Gordon,NSW,"St Johns Ave, Entrance through Stairs",-33.75612016,151.1541758,Train
+328,Gordon,NSW,"St Johns Ave, Entrance through Ramp",-33.75596499,151.1540965,Train
+329,Gordon,NSW,"Wade Lane, Entrance through Ramp",-33.75568255,151.1539778,Train
+330,Gosford,NSW,"Burns Cres, Entrance through Lift",-33.42348002,151.3419443,Train
+331,Gosford,NSW,"Burns Cres, Entrance through Stairs",-33.42348165,151.341911,Train
+332,Gosford,NSW,"Showground Rd, Entrance through Stairs",-33.4233302,151.3414142,Train
+333,Gosford,NSW,"Showground Rd, Entrance through Path",-33.42338314,151.3414013,Train
+334,Goulburn,NSW,"Sloane St, Entrance through Path",-34.75901982,149.7205882,Train
+335,Goulburn,NSW,"Park Rd, Entrance through Path",-34.75812698,149.7192494,Train
+336,Granville,NSW,"Memorial Dr, Entrance through Ramp",-33.8327767,151.0114916,Train
+337,Granville,NSW,"Memorial Dr, Entrance through Ramp",-33.83290042,151.0114055,Train
+338,Green Square,NSW,"Botany Rd, Entrance through Stairs",-33.90596608,151.2030771,Train
+339,Green Square,NSW,"Botany Rd, Entrance through Stairs",-33.90581837,151.2030314,Train
+340,Green Square,NSW,"O'Riordan St, Entrance through Escalators",-33.90627864,151.2026934,Train
+341,Green Square,NSW,"O'Riordan St, Entrance through Lift",-33.90621492,151.2025402,Train
+342,Greta,NSW,"Nelson St, Entrance through Ramp",-32.68678796,151.384282,Train
+343,Greta,NSW,"Mansfield St, Entrance through Ramp",-32.68667582,151.3840538,Train
+344,Guildford,NSW,"Railway Tce, Entrance through Ramp",-33.854233,150.9846821,Train
+345,Guildford,NSW,"Military Rd, Entrance through Ramp",-33.8538226,150.984647,Train
+346,Guildford,NSW,"Railway Tce, Entrance through Stairs",-33.85444912,150.9845955,Train
+347,Guildford,NSW,"Railway Tce, Entrance through Lift",-33.85456824,150.9844866,Train
+348,Guildford,NSW,"Military Rd, Entrance through Ramp",-33.85416769,150.9844037,Train
+349,Guildford,NSW,"Military Rd, Entrance through Stairs",-33.85425733,150.9843285,Train
+350,Guildford,NSW,"Military Rd, Entrance through Stairs",-33.85433088,150.9842777,Train
+351,Guildford,NSW,"Military Rd, Entrance through Lift",-33.85449232,150.984227,Train
+352,Gymea,NSW,"Gymea Bay Rd, Entrance through Lift",-34.03490791,151.0852082,Train
+353,Gymea,NSW,"Gymea Bay Rd, Entrance through Stairs",-34.03487034,151.0851825,Train
+354,Hamilton,NSW,"Beaumont  St, Entrance through Stairs",-32.91802537,151.7485113,Train
+355,Hamilton,NSW,"Beaumont  St, Entrance through Ramp",-32.9185304,151.7483975,Train
+356,Hamilton,NSW,"Beaumont  St, Entrance through Stairs",-32.91838537,151.7482699,Train
+357,Hamilton,NSW,"Beaumont  St, Entrance through Ramp",-32.91841859,151.7482552,Train
+358,Harris Park,NSW,"Marion St, Entrance through Ramp",-33.82335758,151.0079326,Train
+359,Harris Park,NSW,"Station W St, Entrance through Stairs",-33.82326239,151.0074636,Train
+360,Hawkesbury River,NSW,"Danger Rd, Entrance through Stairs",-33.54700863,151.2267151,Train
+361,Hawkesbury River,NSW,"Danger Rd, Entrance through Stairs",-33.54710145,151.2265988,Train
+362,Hawthorne LR,NSW,"Darley Rd, Entrance through Path",-33.87958216,151.1475502,Train
+363,Hawthorne LR,NSW,"Darley Rd, Entrance through Path",-33.8795003,151.1471067,Train
+364,Hazelbrook,NSW,"Great Western Hwy, Entrance through Stairs",-33.72353033,150.454573,Train
+365,Hazelbrook,NSW,"Great Western Hwy, Entrance through Ramp",-33.72308654,150.454017,Train
+366,Hazelbrook,NSW,"Railway Pde, Entrance through Path",-33.72367342,150.4539673,Train
+367,Heathcote,NSW,"Wilson Pde, Entrance through Path",-34.08792484,151.0084291,Train
+368,Heathcote,NSW,"Wilson Pde, Entrance through Ramp",-34.08793975,151.0084144,Train
+369,Heathcote,NSW,"Princes Hwy, Entrance through Ramp",-34.0877856,151.008298,Train
+370,Heathcote,NSW,"Princes Hwy, Entrance through Path",-34.08780235,151.0082859,Train
+371,Helensburgh,NSW,"Tunnel Rd, Entrance through Lift",-34.17718912,150.9942468,Train
+372,Helensburgh,NSW,"Tunnel Rd, Entrance through Stairs",-34.17714736,150.9940859,Train
+373,Hexham,NSW,"Maitland  Rd, Entrance through Stairs",-32.8287522,151.68432,Train
+374,High Street,NSW,"High St, Entrance through Stairs",-32.7413273,151.5644242,Train
+375,High Street,NSW,"Le Darcy Dr, Entrance through Ramp",-32.74197207,151.5641955,Train
+376,Hilldale,NSW,"Hilldale Rd, Entrance through Ramp",-32.50448435,151.649805,Train
+377,Holsworthy,NSW,"The Boulevarde , Entrance through Stairs",-33.96292706,150.9565045,Train
+378,Holsworthy,NSW,"The Boulevarde , Entrance through Ramp",-33.96297936,150.9564564,Train
+379,Holsworthy,NSW,"The Boulevarde , Entrance through Lift",-33.96282915,150.9563519,Train
+380,Homebush,NSW,"Loftus Cres, Entrance through Stairs",-33.86641951,151.0864214,Train
+381,Homebush,NSW,"The Crescent , Entrance through Ramp",-33.866968,151.0861075,Train
+382,Homebush,NSW,"The Crescent , Entrance through Stairs",-33.8669269,151.0860951,Train
+383,Hornsby,NSW,"Hunter Lane, Entrance through Ramp",-33.703839,151.099774,Train
+384,Hornsby,NSW,"George St, Entrance through Ramp",-33.70355385,151.0988427,Train
+385,Hornsby,NSW,"George St, Entrance through Stairs",-33.70356981,151.0988312,Train
+386,Hornsby,NSW,"George St, Entrance through Ramp",-33.70373548,151.0987466,Train
+387,Hornsby,NSW,"Station St, Entrance through Path",-33.70347962,151.0980916,Train
+388,Dulwich Hill,NSW,"Wardell Rd, Entrance through Stairs",-33.91105837,151.1411463,Train
+389,Hurlstone Park,NSW,"Duntroon St, Entrance through Path",-33.91018981,151.1325419,Train
+390,Hurstville,NSW,"Forest Rd, Entrance through Stairs",-33.96703441,151.1028477,Train
+391,Hurstville,NSW,"Ormonde Pde, Entrance through Stairs",-33.96768463,151.102359,Train
+392,Hurstville,NSW,"Ormonde Pde, Entrance through Lift",-33.96763205,151.1022885,Train
+393,Hurstville,NSW,"Forest Rd, Entrance through Ramp",-33.96651714,151.1019021,Train
+394,Hurstville,NSW,"Forest Rd, Entrance through Escalators",-33.96651714,151.1019021,Train
+395,Ingleburn,NSW,"Ingleburn Rd, Entrance through Stairs",-33.99743831,150.8648758,Train
+396,Ingleburn,NSW,"Ingleburn Rd, Entrance through Ramp",-33.99760206,150.8646186,Train
+397,Ingleburn,NSW,"Ingleburn Rd, Entrance through Stairs",-33.9978895,150.8643778,Train
+398,Ingleburn,NSW,"Stanley Rd, Entrance through Ramp",-33.99742169,150.8643133,Train
+399,Ingleburn,NSW,"Stanley Rd, Entrance through Stairs",-33.99757653,150.8640104,Train
+400,International,NSW,"Departure Plza, Entrance through Escalators",-33.93518102,151.166541,Train
+401,International,NSW,"Departure Plza, Entrance through Lift",-33.93520792,151.1664707,Train
+402,International,NSW,"Departure Plza, Entrance through Lift",-33.93519882,151.1664469,Train
+403,Jannali,NSW,"Railway Cres, Entrance through Ramp",-34.01609101,151.0648408,Train
+404,Jannali,NSW,"Railway Cres, Entrance through Path",-34.0158836,151.0647566,Train
+405,Jannali,NSW,"Mitchell Ave, Entrance through Ramp",-34.01599453,151.0643704,Train
+406,John Street Square LR,NSW,"Harris St, Entrance through Ramp",-33.86726224,151.1924304,Train
+407,John Street Square LR,NSW,"Harvey St, Entrance through Stairs",-33.86716237,151.192075,Train
+408,Jubilee Park LR,NSW,"Chapman Rd, Entrance through Stairs",-33.87532035,151.1786149,Train
+409,Jubilee Park LR,NSW,"Chapman Rd, Entrance through Ramp",-33.87533885,151.1785977,Train
+410,Jubilee Park LR,NSW,"Chapman Rd, Entrance through Ramp",-33.87556013,151.1783683,Train
+411,Katoomba,NSW,"Goldsmith Pl, Entrance through Ramp",-33.71194806,150.3121686,Train
+412,Katoomba,NSW,"Bathurst Rd, Entrance through Ramp",-33.71227605,150.3121389,Train
+413,Katoomba,NSW,"Bathurst Rd, Entrance through Lift",-33.7122822,150.3119825,Train
+414,Katoomba,NSW,"Bathurst Rd, Entrance through Stairs",-33.71225211,150.3117845,Train
+415,Kembla Grange,NSW,"West Dapto , Entrance through Ramp",-34.47012644,150.8177961,Train
+416,Kiama,NSW,"Railway Pde, Entrance through Path",-34.67259919,150.8543663,Train
+417,Killara,NSW,"Werona Ave, Entrance through Stairs",-33.76569485,151.1620999,Train
+418,Killara,NSW,"Culworth Ave, Entrance through Stairs",-33.76585281,151.1617973,Train
+419,Kings Cross,NSW,"Victoria St, Entrance through Stairs",-33.87403189,151.2225037,Train
+420,Kings Cross,NSW,"Victoria St, Entrance through Lift",-33.87426901,151.2222047,Train
+421,Kings Cross,NSW,"Victoria St, Entrance through Stairs",-33.87423751,151.2221958,Train
+422,Kingsgrove,NSW,"Kingsgrove Rd, Entrance through Stairs",-33.94037591,151.1010846,Train
+423,Kingsgrove,NSW,"Kingsgrove Rd, Entrance through Lift",-33.94048039,151.100874,Train
+424,Kingsgrove,NSW,"Kingsgrove Rd, Entrance through Stairs",-33.94045759,151.1008569,Train
+425,Kingswood,NSW,"Richmond Rd, Entrance through Ramp",-33.75823391,150.7202398,Train
+426,Kingswood,NSW,"Great Western  Hwy, Entrance through Lift",-33.75842616,150.720233,Train
+427,Kingswood,NSW,"Richmond Rd, Entrance through Stairs",-33.75823344,150.7201166,Train
+428,Kingswood,NSW,"Great Western  Hwy, Entrance through Stairs",-33.75836745,150.720071,Train
+429,Kirrawee,NSW,"Oak Rd, Entrance through Path",-34.03491126,151.0710203,Train
+430,Kogarah,NSW,"Regent St, Entrance through Stairs",-33.96279661,151.1326915,Train
+431,Kogarah,NSW,"Regent St, Entrance through Lift",-33.9627467,151.1326877,Train
+432,Kogarah,NSW,"Station St, Entrance through Stairs",-33.96260526,151.1322014,Train
+433,Kogarah,NSW,"Station St, Entrance through Lift",-33.96264352,151.1321917,Train
+434,Kogarah,NSW,"Station St, Entrance through Stairs",-33.96268807,151.1321451,Train
+435,Kogarah,NSW,"Station St, Entrance through Ramp",-33.96279569,151.1321022,Train
+436,Koolewong,NSW,"Glenrock Pde, Entrance through Stairs",-33.46613312,151.3184763,Train
+437,Koolewong,NSW,"Glenrock Pde, Entrance through Stairs",-33.46614412,151.3183699,Train
+438,Kotara,NSW,"Park Ave, Entrance through Stairs",-32.94176982,151.6980592,Train
+439,Kotara,NSW,"Kotara Pl, Entrance through Ramp",-32.94136917,151.6974634,Train
+440,Lakemba,NSW,"The Boulevarde , Entrance through Lift",-33.92010158,151.0763703,Train
+441,Lakemba,NSW,"Railway Pde, Entrance through Lift",-33.91988075,151.0762517,Train
+442,Lakemba,NSW,"Railway Pde, Entrance through Stairs",-33.919759,151.0761338,Train
+443,Lapstone,NSW,"Explorers Rd, Entrance through Ramp",-33.77327862,150.6426352,Train
+444,Lapstone,NSW,"Explorers Rd, Entrance through Stairs",-33.77355931,150.6426108,Train
+445,Lawson,NSW,"Honour Ave, Entrance through Ramp",-33.71950783,150.4304172,Train
+446,Lawson,NSW,"Great Western Hwy, Entrance through Ramp",-33.71914265,150.4300609,Train
+447,Lawson,NSW,"Lotus St, Entrance through Ramp",-33.7189722,150.4296065,Train
+448,Lawson,NSW,"Great Western Hwy, Entrance through Ramp",-33.71943599,150.4294992,Train
+449,Leichhardt North LR,NSW,"James St, Entrance through Lift",-33.87498002,151.1550356,Train
+450,Leichhardt North LR,NSW,"James St, Entrance through Stairs",-33.87499429,151.1550175,Train
+451,Leichhardt North LR,NSW,"City West Link Rd, Entrance through Path",-33.874998,151.1535804,Train
+452,Leightonfield,NSW,"Monier Sq, Entrance through Ramp",-33.88189412,150.9851028,Train
+453,Leightonfield,NSW,"Christina Rd, Entrance through Ramp",-33.88126383,150.984962,Train
+454,Leppingon,NSW,"Rickard Rd, Entrance through Stairs",-33.95443956,150.8082668,Train
+455,Leppingon,NSW,"Rickard Rd, Entrance through Lift",-33.95451545,150.8082463,Train
+456,Leumeah,NSW,"O'Sullivan Rd, Entrance through Lift",-34.05067487,150.8308056,Train
+457,Leumeah,NSW,"Plough Inn Rd, Entrance through Path",-34.05031272,150.8307679,Train
+458,Leumeah,NSW,"Old Leumeah Rd, Entrance through Ramp",-34.05080184,150.8307251,Train
+459,Leumeah,NSW,"Old Leumeah Rd, Entrance through Stairs",-34.05081332,150.8307025,Train
+460,Leumeah,NSW,"O'Sullivan Rd, Entrance through Stairs",-34.05089506,150.830574,Train
+461,Leumeah,NSW,"Plough Inn Rd, Entrance through Lift",-34.0504822,150.8305609,Train
+462,Leumeah,NSW,"O'Sullivan Rd, Entrance through Ramp",-34.05102916,150.8304338,Train
+463,Leura,NSW,"Railway Pde, Entrance through Stairs",-33.71212061,150.3311289,Train
+464,Lewisham,NSW,"Thomas  St, Entrance through Stairs",-33.8931095,151.1475983,Train
+465,Lewisham,NSW,"Railway Tce, Entrance through Stairs",-33.8936359,151.1475441,Train
+466,Lewisham West LR,NSW,"Hudson St, Entrance through Path",-33.89385044,151.1434623,Train
+467,Lewisham West LR,NSW,"Smith St, Entrance through Path",-33.8937862,151.1433429,Train
+468,Lidcombe,NSW,"Church St, Entrance through Path",-33.86353155,151.0450641,Train
+469,Lidcombe,NSW,"Church St, Entrance through Lift",-33.86346008,151.0447924,Train
+470,Lidcombe,NSW,"Railway St, Entrance through Stairs",-33.86386973,151.0446447,Train
+471,Lidcombe,NSW,"Railway St, Entrance through Lift",-33.86386787,151.0446069,Train
+472,Lidcombe,NSW,"Church St, Entrance through Stairs",-33.86338085,151.0445549,Train
+473,Lidcombe,NSW,"Railway St, Entrance through Stairs",-33.863756,151.044279,Train
+474,Lilyfield LR,NSW,"Catherine  St, Entrance through Ramp",-33.87419537,151.1648238,Train
+475,Lilyfield LR,NSW,"Catherine  St, Entrance through Stairs",-33.87411594,151.1647681,Train
+476,Linden,NSW,"Great Western Hwy, Entrance through Path",-33.71533075,150.5053218,Train
+477,Linden,NSW,"Burke Rd, Entrance through Stairs",-33.71474436,150.5043663,Train
+478,Lindfield,NSW,"Lindfield Ave, Entrance through Stairs",-33.77565442,151.1695097,Train
+479,Lindfield,NSW,"Lindfield Ave, Entrance through Stairs",-33.77528844,151.1693856,Train
+480,Lindfield,NSW,"Lindfield Ave, Entrance through Ramp",-33.77526721,151.1693706,Train
+481,Lindfield,NSW,"Pacific Hwy, Entrance through Stairs",-33.77595464,151.1693,Train
+482,Lindfield,NSW,"Lindfield Ave, Entrance through Stairs",-33.77508734,151.1692302,Train
+483,Lindfield,NSW,"Pacific Hwy, Entrance through Ramp",-33.77573861,151.1691075,Train
+484,Lindfield,NSW,"Pacific Hwy, Entrance through Stairs",-33.77570298,151.1690761,Train
+485,Lisarow,NSW,"Pacific Hwy, Entrance through Stairs",-33.38218451,151.3701793,Train
+486,Lisarow,NSW,"Pacific Hwy, Entrance through Path",-33.38219289,151.3701652,Train
+487,Lisarow,NSW,"Railway Cres, Entrance through Stairs",-33.38207165,151.3700848,Train
+488,Lisarow,NSW,"Railway Cres, Entrance through Path",-33.38205966,151.3700717,Train
+489,Lithgow,NSW,"Main St, Entrance through Path",-33.48092585,150.156929,Train
+490,Lithgow,NSW,"Railway Pde, Entrance through Path",-33.48051667,150.1567066,Train
+491,Liverpool,NSW,"Moore St, Entrance through Path",-33.92314617,150.927698,Train
+492,Liverpool,NSW,"Biggs St, Entrance through Lift",-33.92438493,150.9269976,Train
+493,Liverpool,NSW,"Biggs St, Entrance through Stairs",-33.92430468,150.9269377,Train
+494,Lochinvar,NSW,"Station Lane, Entrance through Ramp",-32.72048397,151.450531,Train
+495,Lochinvar,NSW,"Station Lane, Entrance through Ramp",-32.72039462,151.4504811,Train
+496,Loftus,NSW,"Pitt St, Entrance through Ramp",-34.04499976,151.0513888,Train
+497,Loftus,NSW,"Loftus Ave, Entrance through Ramp",-34.04545425,151.0512098,Train
+498,Lysaghts,NSW,"Recycling Rd, Entrance through Stairs",-34.4548118,150.8752141,Train
+499,Macarthur,NSW,"Menangle  Rd, Entrance through Lift",-34.07249292,150.7974781,Train
+500,Macarthur,NSW,"Menangle  Rd, Entrance through Lift",-34.07221782,150.7973884,Train
+501,Macarthur,NSW,"Menangle  Rd, Entrance through Stairs",-34.07255383,150.7971598,Train
+502,Macarthur,NSW,"Menangle  Rd, Entrance through Stairs",-34.0722662,150.7970753,Train
+503,Macdonaldtown,NSW,"Burren St, Entrance through Stairs",-33.89679186,151.1853862,Train
+504,Macquarie Fields,NSW,"Railway Pde, Entrance through Stairs",-33.98484292,150.8790781,Train
+505,Macquarie Fields,NSW,"Railway Pde, Entrance through Ramp",-33.98496652,150.8789376,Train
+506,Macquarie Park,NSW,"Lane Cove Rd, Entrance through Lift",-33.78544457,151.128497,Train
+507,Macquarie Park,NSW,"Lane Cove Rd, Entrance through Escalators",-33.78536823,151.1284456,Train
+508,Macquarie Park,NSW,"Lane Cove Rd, Entrance through Escalators",-33.78507899,151.1280042,Train
+509,Macquarie Park,NSW,"Lane Cove Rd, Entrance through Lift",-33.78506256,151.1279791,Train
+510,Macquarie University,NSW,"Herring Rd, Entrance through Lift",-33.77743582,151.1184713,Train
+511,Macquarie University,NSW,"Herring Rd, Entrance through Escalators",-33.7774169,151.1184131,Train
+512,Macquarie University,NSW,"Herring Rd, Entrance through Escalators",-33.77721132,151.1181043,Train
+513,Macquarie University,NSW,"Herring Rd, Entrance through Lift",-33.77716806,151.1180933,Train
+514,Maitland,NSW,"Station St, Entrance through Path",-32.73774765,151.552236,Train
+515,Marayong,NSW,"Harvey Rd, Entrance through Stairs",-33.74622068,150.9003117,Train
+516,Marayong,NSW,"Harvey Rd, Entrance through Lift",-33.74601717,150.9003098,Train
+517,Marayong,NSW,"Railway Pde, Entrance through Stairs",-33.7462306,150.9000471,Train
+518,Marayong,NSW,"Railway Pde, Entrance through Lift",-33.74602227,150.9000423,Train
+519,Marion LR,NSW,"Marion St, Entrance through Path",-33.8839155,151.1449963,Train
+520,Marrickville,NSW,"Station St, Entrance through Path",-33.9139756,151.153316,Train
+521,Marrickville,NSW,"Illawarra Rd, Entrance through Stairs",-33.91375714,151.1532248,Train
+522,Marrickville,NSW,"Illawarra Rd, Entrance through Lift",-33.91378174,151.1531819,Train
+523,Marrickville,NSW,"Illawarra Rd, Entrance through Lift",-33.91383568,151.1531518,Train
+524,Marrickville,NSW,"Illawarra Rd, Entrance through Stairs",-33.91386322,151.1531385,Train
+525,Martin Place,NSW,"Macquarie St, Entrance through Stairs",-33.86796254,151.2116241,Train
+526,Martin Place,NSW,"Phillip St, Entrance through Lift",-33.8677258,151.211419,Train
+527,Martin Place,NSW,"Phillip St, Entrance through Stairs",-33.867961,151.2113556,Train
+528,Martin Place,NSW,"Elizabeth St, Entrance through Stairs",-33.86770938,151.2108281,Train
+529,Martin Place,NSW,"Elizabeth St, Entrance through Stairs",-33.86794917,151.2105119,Train
+530,Martin Place,NSW,"Elizabeth St, Entrance through Stairs",-33.86773095,151.2102046,Train
+531,Martins Creek,NSW,"Grace Ave, Entrance through Ramp",-32.55848164,151.618412,Train
+532,Marulan,NSW,"Wollondilly St, Entrance through Path",-34.7095012,150.0056778,Train
+533,Marulan,NSW,"Railway Pde, Entrance through Path",-34.70959939,150.0056691,Train
+534,Mascot,NSW,"Bourke St, Entrance through Stairs",-33.92315955,151.1873924,Train
+535,Mascot,NSW,"Bourke St, Entrance through Escalators",-33.92315812,151.1873628,Train
+536,Mascot,NSW,"Bourke St, Entrance through Lift",-33.92336325,151.1873396,Train
+537,Meadowbank,NSW,"Constitution Rd, Entrance through Lift",-33.81566979,151.0902245,Train
+538,Meadowbank,NSW,"Constitution Rd, Entrance through Stairs",-33.81579505,151.0902088,Train
+539,Meadowbank,NSW,"Bank St, Entrance through Lift",-33.81562759,151.0899398,Train
+540,Meadowbank,NSW,"Bank St, Entrance through Ramp",-33.81555584,151.089916,Train
+541,Medlow Bath,NSW,"Great Western Hwy, Entrance through Ramp",-33.67465401,150.2811412,Train
+542,Medlow Bath,NSW,"Great Western Hwy, Entrance through Stairs",-33.67295305,150.2803919,Train
+543,Menangle,NSW,"Stevens Rd, Entrance through Ramp",-34.12539404,150.7441804,Train
+544,Menangle,NSW,"Stevens Rd, Entrance through Path",-34.12585573,150.7440669,Train
+545,Menangle Park,NSW,"Racecourse Ave, Entrance through Ramp",-34.10338167,150.7450798,Train
+546,Menangle Park,NSW,"Racecourse Rd, Entrance through Ramp",-34.10338507,150.7449509,Train
+547,Merrylands,NSW,"Railway Tce, Entrance through Ramp",-33.83669532,150.9926698,Train
+548,Merrylands,NSW,"Terminal Pl, Entrance through Ramp",-33.83631419,150.9926662,Train
+549,Merrylands,NSW,"Railway Tce, Entrance through Stairs",-33.83680598,150.9925619,Train
+550,Merrylands,NSW,"Railway Tce, Entrance through Lift",-33.83690608,150.9923757,Train
+551,Merrylands,NSW,"Railway Tce, Entrance through Ramp",-33.83694829,150.992327,Train
+552,Merrylands,NSW,"Terminal Pl, Entrance through Stairs",-33.83658243,150.9922814,Train
+553,Merrylands,NSW,"Terminal Pl, Entrance through Lift",-33.83679089,150.992228,Train
+554,Merrylands,NSW,"Terminal Pl, Entrance through Stairs",-33.83671583,150.9921634,Train
+555,Merrylands,NSW,"Railway Tce, Entrance through Stairs",-33.83715442,150.992075,Train
+556,Merrylands,NSW,"Terminal Pl, Entrance through Ramp",-33.83685144,150.9920152,Train
+557,Merrylands,NSW,"Terminal Pl, Entrance through Stairs",-33.83705075,150.9918377,Train
+558,Metford,NSW,"McCubbin  Cl, Entrance through Stairs",-32.76547854,151.6182929,Train
+559,Metford,NSW,"McCubbin  Cl, Entrance through Lift",-32.76536099,151.6181329,Train
+560,Milsons Point,NSW,"Ennis Rd, Entrance through Ramp",-33.84579562,151.212403,Train
+561,Milsons Point,NSW,"Alfred St, Entrance through Path",-33.84594618,151.2117195,Train
+562,Mindaribba,NSW,"Tocal Rd, Entrance through Ramp",-32.66835055,151.5845537,Train
+563,Minnamurra,NSW,"North St, Entrance through Ramp",-34.62633044,150.8530098,Train
+564,Minto,NSW,"Minto Rd, Entrance through Stairs",-34.02750455,150.8426006,Train
+565,Minto,NSW,"Minto Rd, Entrance through Lift",-34.02764472,150.8425642,Train
+566,Minto,NSW,"Minto Rd, Entrance through Ramp",-34.02776996,150.8425506,Train
+567,Minto,NSW,"Somerset St, Entrance through Stairs",-34.02722065,150.8423272,Train
+568,Minto,NSW,"Somerset St, Entrance through Lift",-34.0274664,150.842237,Train
+569,Minto,NSW,"Somerset St, Entrance through Ramp",-34.02769333,150.8422318,Train
+570,Miranda,NSW,"Kiora Rd, Entrance through Stairs",-34.036075,151.1019708,Train
+571,Miranda,NSW,"Kiora Rd, Entrance through Ramp",-34.036075,151.1019708,Train
+572,Mittagong,NSW,"Railway Pde, Entrance through Stairs",-34.4526389,150.4483852,Train
+573,Mittagong,NSW,"Regent St, Entrance through Stairs",-34.45240354,150.4483624,Train
+574,Morisset,NSW,"Macquarie St, Entrance through Lift",-33.10903664,151.4882907,Train
+575,Morisset,NSW,"Macquarie St, Entrance through Ramp",-33.1090292,151.4882497,Train
+576,Morisset,NSW,"Dora St, Entrance through Lift",-33.10883807,151.4881562,Train
+577,Morisset,NSW,"Macquarie St, Entrance through Stairs",-33.10907961,151.4881539,Train
+578,Morisset,NSW,"Dora St, Entrance through Stairs",-33.10893132,151.48806,Train
+579,Morisset,NSW,"Dora St, Entrance through Ramp",-33.10895092,151.4878847,Train
+580,Mortdale,NSW,"Coleborne Ave, Entrance through Lift",-33.97112283,151.0810841,Train
+581,Mortdale,NSW,"Coleborne Ave, Entrance through Stairs",-33.97123984,151.081009,Train
+582,Mortdale,NSW,"Cook Lane, Entrance through Lift",-33.97104094,151.0808798,Train
+583,Mortdale,NSW,"Cook Lane, Entrance through Stairs",-33.97116587,151.0808093,Train
+584,Moss Vale,NSW,"Argyle St, Entrance through Path",-34.54838916,150.372103,Train
+585,Moss Vale,NSW,"Lackey Rd, Entrance through Path",-34.54759291,150.3718707,Train
+586,Mount Colah,NSW,"Pacific Hwy, Entrance through Stairs",-33.67129214,151.1150982,Train
+587,Mount Druitt,NSW,"North Pde, Entrance through Ramp",-33.76905662,150.8203218,Train
+588,Mount Druitt,NSW,"North Pde, Entrance through Stairs",-33.76888448,150.8203141,Train
+589,Mount Druitt,NSW,"North Pde, Entrance through Lift",-33.76903287,150.8201866,Train
+590,Mount Druitt,NSW,"North Pde, Entrance through Stairs",-33.76940294,150.820177,Train
+591,Mount Druitt,NSW,"Beames Ave, Entrance through Lift",-33.76977783,150.8201693,Train
+592,Mount Druitt,NSW,"North Pde, Entrance through Lift",-33.76941054,150.8201425,Train
+593,Mount Druitt,NSW,"Beames Ave, Entrance through Ramp",-33.7699575,150.8201085,Train
+594,Mount Druitt,NSW,"Beames Ave, Entrance through Stairs",-33.76975925,150.819919,Train
+595,Mount Druitt,NSW,"North Pde, Entrance through Lift",-33.76885586,150.8198575,Train
+596,Mount Druitt,NSW,"North Pde, Entrance through Stairs",-33.76903298,150.8197793,Train
+597,Mount Druitt,NSW,"North Pde, Entrance through Stairs",-33.76883389,150.8195934,Train
+598,Mount Kurring-gai,NSW,"Harwood Ave, Entrance through Stairs",-33.65382765,151.1370126,Train
+599,Mount Kurring-gai,NSW,"Harwood Ave, Entrance through Ramp",-33.65382377,151.1369886,Train
+600,Mount Kurring-gai,NSW,"Pacific Hwy, Entrance through Ramp",-33.65376948,151.1365683,Train
+601,Mount Victoria,NSW,"Patrick St, Entrance through Stairs",-33.5882678,150.257054,Train
+602,Mount Victoria,NSW,"Station St, Entrance through Stairs",-33.58817529,150.256825,Train
+603,Mulgrave,NSW,"Mulgrave Rd, Entrance through Ramp",-33.62649899,150.8298983,Train
+604,Museum,NSW,"Elizabeth St, Entrance through Stairs",-33.87493423,151.2098618,Train
+605,Museum,NSW,"Elizabeth St, Entrance through Escalators",-33.87691361,151.209825,Train
+606,Museum,NSW,"Elizabeth St, Entrance through Stairs",-33.87652945,151.2098063,Train
+607,Museum,NSW,"Elizabeth St, Entrance through Lift",-33.87659188,151.2097343,Train
+608,Museum,NSW,"Elizabeth St, Entrance through Escalators",-33.87482734,151.209529,Train
+609,Museum,NSW,"Liverpool St, Entrance through Escalators",-33.87671276,151.2092181,Train
+610,Museum,NSW,"Liverpool St, Entrance through Stairs",-33.87669845,151.2091949,Train
+611,Muswellbrook,NSW,"Market St, Entrance through Ramp",-32.26744191,150.890863,Train
+612,Muswellbrook,NSW,"Market St, Entrance through Stairs",-32.26758584,150.8908038,Train
+613,Muswellbrook,NSW,"Market St, Entrance through Stairs",-32.26742612,150.8904619,Train
+614,Narara,NSW,"Goonak Pde, Entrance through Path",-33.39478142,151.3445536,Train
+615,Narara,NSW,"Narara Valley Dr, Entrance through Stairs",-33.39459444,151.3444334,Train
+616,Narara,NSW,"Narara Valley Dr, Entrance through Path",-33.39460601,151.3444151,Train
+617,Narwee,NSW,"Hannans Rd, Entrance through Path",-33.9475007,151.0707991,Train
+618,Narwee,NSW,"Hurst Pl, Entrance through Path",-33.94783139,151.0706442,Train
+619,Newcastle Interchange,NSW,"Hannell St, Entrance through Path",-32.92412867,151.7598672,Train
+620,Newcastle Interchange,NSW,"Hannell St, Entrance through Path",-32.92443205,151.7596352,Train
+621,Newcastle Interchange,NSW,"Charles St, Entrance through Path",-32.9239171,151.7593884,Train
+622,Newcastle Interchange,NSW,"Cooper St, Entrance through Path",-32.92445674,151.7589509,Train
+623,Newtown,NSW,"King St, Entrance through Lift",-33.89794821,151.1788919,Train
+624,Newtown,NSW,"King St, Entrance through Ramp",-33.89787696,151.1788814,Train
+625,Niagara Park,NSW,"Kathleen Morreau Rd, Entrance through Stairs",-33.38322824,151.3545729,Train
+626,Niagara Park,NSW,"Washington Ave, Entrance through Stairs",-33.3830702,151.3544041,Train
+627,Normanhurst,NSW,"Denman Pde, Entrance through Path",-33.72090894,151.0971516,Train
+628,Normanhurst,NSW,"Malsbury Rd, Entrance through Path",-33.72064788,151.0969021,Train
+629,North Ryde,NSW,"Delhi Rd, Entrance through Lift",-33.79455215,151.1379256,Train
+630,North Ryde,NSW,"Delhi Rd, Entrance through Escalators",-33.79451462,151.1379238,Train
+631,North Strathfield,NSW,"Queen St, Entrance through Stairs",-33.85916251,151.0885013,Train
+632,North Strathfield,NSW,"Hamilton St, Entrance through Ramp",-33.8597069,151.0882075,Train
+633,North Sydney,NSW,"Blue St, Entrance through Path",-33.84102219,151.2074984,Train
+634,North Sydney,NSW,"Blue St, Entrance through Path",-33.84100344,151.2073747,Train
+635,North Wollongong,NSW,"Station St, Entrance through Stairs",-34.41235075,150.891562,Train
+636,North Wollongong,NSW,"Station St, Entrance through Path",-34.41211824,150.8915599,Train
+637,North Wollongong,NSW,"Station St, Entrance through Lift",-34.41211138,150.8915284,Train
+638,North Wollongong,NSW,"Porter St, Entrance through Lift",-34.41208516,150.8913613,Train
+639,North Wollongong,NSW,"Porter St, Entrance through Path",-34.41208744,150.8913264,Train
+640,North Wollongong,NSW,"Porter St, Entrance through Stairs",-34.41230685,150.8912482,Train
+641,Noth Strathfield,NSW,"Pomeroy St, Entrance through Ramp",-33.85755734,151.0873986,Train
+642,Oak Flats,NSW,"Stanford Dr, Entrance through Ramp",-34.57198187,150.8206117,Train
+643,Oak Flats,NSW,"Stanford Dr, Entrance through Stairs",-34.57188882,150.8204536,Train
+644,Oak Flats,NSW,"Stanford Dr, Entrance through Ramp",-34.57173048,150.8202085,Train
+645,Oatley,NSW,"Oatley Pde, Entrance through Lift",-33.98022837,151.0792926,Train
+646,Oatley,NSW,"River Rd, Entrance through Stairs",-33.98000494,151.0789686,Train
+647,Oatley,NSW,"Mulga Rd, Entrance through Lift",-33.980259,151.0787615,Train
+648,Olympic Park,NSW,"Park St, Entrance through Path",-33.8461115,151.070683,Train
+649,Olympic Park,NSW,"Dawn Fraser Ave, Entrance through Path",-33.84647873,151.0702876,Train
+650,Olympic Park,NSW,"Murray Rose Ave, Entrance through Path",-33.84608649,151.0700814,Train
+651,Olympic Park,NSW,"Dawn Fraser Ave, Entrance through Path",-33.84656636,151.0700461,Train
+652,Olympic Park,NSW,"Murray Rose Ave, Entrance through Stairs",-33.84617394,151.0698287,Train
+653,Olympic Park,NSW,"Dawn Fraser Ave, Entrance through Stairs",-33.84670627,151.0695564,Train
+654,Olympic Park,NSW,"Murray Rose Ave, Entrance through Ramp",-33.84634363,151.0694956,Train
+655,Olympic Park,NSW,"Dawn Fraser Ave, Entrance through Path",-33.84678557,151.0694563,Train
+656,Olympic Park,NSW,"Murray Rose Ave, Entrance through Stairs",-33.84639347,151.0693911,Train
+657,Olympic Park,NSW,"Murray Rose Ave, Entrance through Lift",-33.84639439,151.0692489,Train
+658,Olympic Park,NSW,"Dawn Fraser Ave, Entrance through Path",-33.84686907,151.0692157,Train
+659,Olympic Park,NSW,"Murray Rose Ave, Entrance through Stairs",-33.84647994,151.0690066,Train
+660,Olympic Park,NSW,"Showground Rd, Entrance through Path",-33.84698401,151.0682717,Train
+661,Otford,NSW,"Lady Carrington  Rd, Entrance through Stairs",-34.21052602,151.0059083,Train
+662,Otford,NSW,"Lady Carrington  Rd, Entrance through Ramp",-34.21072283,151.0055213,Train
+663,Otford,NSW,"Station Rd, Entrance through Stairs",-34.21109272,151.0055047,Train
+664,Ourimbah,NSW,"Mill St, Entrance through Stairs",-33.35965695,151.3702768,Train
+665,Ourimbah,NSW,"Mill St, Entrance through Ramp",-33.35955493,151.3701089,Train
+666,Ourimbah,NSW,"Station St, Entrance through Path",-33.35969505,151.3697508,Train
+667,Ourimbah,NSW,"Station St, Entrance through Path",-33.35937321,151.3697352,Train
+668,Paddy's Markets,NSW,"Hay St, Entrance through Path",-33.87925467,151.2027407,Train
+669,Paddy's Markets,NSW,"Hay St, Entrance through Path",-33.87933704,151.2026206,Train
+670,Padstow,NSW,"Banks St, Entrance through Path",-33.95168459,151.0323447,Train
+671,Padstow,NSW,"Howard Rd, Entrance through Ramp",-33.9520945,151.0320242,Train
+672,Padstow,NSW,"Memorial Dr, Entrance through Ramp",-33.95176466,151.0319792,Train
+673,Padstow,NSW,"Memorial Dr, Entrance through Path",-33.95200543,151.0319661,Train
+674,Padstow,NSW,"Memorial Dr, Entrance through Stairs",-33.95170664,151.0319304,Train
+675,Panania,NSW,"Anderson Ave, Entrance through Ramp",-33.95413352,150.9982975,Train
+676,Panania,NSW,"Weston St, Entrance through Ramp",-33.95440402,150.998267,Train
+677,Parramatta,NSW,"Station St, Entrance through Stairs",-33.8178785,151.0063215,Train
+678,Parramatta,NSW,"Liverpool-Parramatta T-way, Entrance through Lift",-33.81823772,151.0059293,Train
+679,Parramatta,NSW,"Liverpool-Parramatta T-way, Entrance through Stairs",-33.81819896,151.0058847,Train
+680,Parramatta,NSW,"Liverpool-Parramatta T-way, Entrance through Stairs",-33.81753109,151.005003,Train
+681,Parramatta,NSW,"Darcy St, Entrance through Lift",-33.81707893,151.0049168,Train
+682,Parramatta,NSW,"Liverpool-Parramatta T-way, Entrance through Lift",-33.81737628,151.0046956,Train
+683,Parramatta,NSW,"Darcy St, Entrance through Stairs",-33.81698089,151.0046804,Train
+684,Parramatta,NSW,"Liverpool-Parramatta T-way, Entrance through Escalators",-33.81757268,151.0045096,Train
+685,Parramatta,NSW,"Liverpool-Parramatta T-way, Entrance through Stairs",-33.8172046,151.0044433,Train
+686,Paterson,NSW,"Main St, Entrance through Stairs",-32.60237058,151.6147645,Train
+687,Pendle Hill,NSW,"Wentworth Ave, Entrance through Ramp",-33.80167682,150.9570035,Train
+688,Pendle Hill,NSW,"Wentworth Ave, Entrance through Stairs",-33.80127175,150.956549,Train
+689,Pendle Hill,NSW,"Joyce St, Entrance through Ramp",-33.80135205,150.9559293,Train
+690,Pendle Hill,NSW,"Joyce St, Entrance through Path",-33.80130891,150.9558506,Train
+691,Pennant Hills,NSW,"Railway St, Entrance through Stairs",-33.7379301,151.0727775,Train
+692,Pennant Hills,NSW,"Railway St, Entrance through Lift",-33.73795586,151.0726265,Train
+693,Pennant Hills,NSW,"Yarrara Rd, Entrance through Path",-33.73771583,151.0726063,Train
+694,Pennant Hills,NSW,"Yarrara Rd, Entrance through Stairs",-33.73772306,151.0725732,Train
+695,Pennant Hills,NSW,"Railway St, Entrance through Ramp",-33.73816108,151.0725647,Train
+696,Pennant Hills,NSW,"Yarrara Rd, Entrance through Lift",-33.73786579,151.0724987,Train
+697,Penrith,NSW,"Combewood Ave, Entrance through Stairs",-33.74985862,150.6965761,Train
+698,Penrith,NSW,"Combewood Ave, Entrance through Lift",-33.74985115,150.6965045,Train
+699,Penrith,NSW,"Jane St, Entrance through Stairs",-33.75029054,150.6964713,Train
+700,Penrith,NSW,"Jane St, Entrance through Lift",-33.75028162,150.6964333,Train
+701,Penrith,NSW,"Jane St, Entrance through Stairs",-33.75018886,150.6961967,Train
+702,Penrose,NSW,"Penrose Rd, Entrance through Path",-34.67230549,150.2122744,Train
+703,Penrose,NSW,"Kareela Rd, Entrance through Path",-34.6721605,150.212086,Train
+704,Penshurst,NSW,"Bridge Rd, Entrance through Stairs",-33.96608121,151.0888374,Train
+705,Penshurst,NSW,"Laycock Rd, Entrance through Ramp",-33.96633248,151.088801,Train
+706,Penshurst,NSW,"Laycock Rd, Entrance through Stairs",-33.96631991,151.0887138,Train
+707,Penshurst,NSW,"Bridge Rd, Entrance through Lift",-33.96609707,151.0886682,Train
+708,Petersham,NSW,"Trafalgar St, Entrance through Stairs",-33.89402275,151.1557675,Train
+709,Petersham,NSW,"Terminus St, Entrance through Stairs",-33.8936064,151.1555418,Train
+710,Picton,NSW,"Prince St, Entrance through Stairs",-34.17964863,150.612881,Train
+711,Picton,NSW,"Station St, Entrance through Stairs",-34.17927875,150.6127309,Train
+712,Picton,NSW,"Prince St, Entrance through Stairs",-34.17968277,150.6127042,Train
+713,Picton,NSW,"Station St, Entrance through Lift",-34.17921166,150.6126647,Train
+714,Point Clare,NSW,"Kurrawa Ave, Entrance through Stairs",-33.44630072,151.3285267,Train
+715,Point Clare,NSW,"Brisbane Water Dr, Entrance through Stairs",-33.44618258,151.3282641,Train
+716,Point Clare,NSW,"Brisbane Water Dr, Entrance through Ramp",-33.44621399,151.3282199,Train
+717,Port Kembla,NSW,"Old Port Rd, Entrance through Ramp",-34.47718852,150.9028567,Train
+718,Port Kembla North,NSW,"Flinders St, Entrance through Stairs",-34.47297995,150.8873269,Train
+719,Port Kembla North,NSW,"Flinders St, Entrance through Stairs",-34.47312925,150.8870415,Train
+720,Punchbowl,NSW,"Punchbowl Rd, Entrance through Stairs",-33.92525226,151.0555798,Train
+721,Punchbowl,NSW,"The Boulevarde , Entrance through Stairs",-33.92556758,151.0555716,Train
+722,Pymble,NSW,"Grandview St, Entrance through Stairs",-33.74463831,151.1422732,Train
+723,Pymble,NSW,"Pacific Hwy, Entrance through Stairs",-33.74498339,151.1421989,Train
+724,Pyrmont Bay LR,NSW,"Murray St, Entrance through Path",-33.869535,151.197707,Train
+725,Quakers Hill,NSW,"Pearce Rd, Entrance through Lift",-33.72731055,150.886272,Train
+726,Quakers Hill,NSW,"Pearce Rd, Entrance through Stairs",-33.72721559,150.8862174,Train
+727,Quakers Hill,NSW,"Railway Pde, Entrance through Lift",-33.72743142,150.8860389,Train
+728,Quakers Hill,NSW,"Railway Pde, Entrance through Stairs",-33.72721417,150.8858872,Train
+729,Redfern,NSW,"Gibbons St, Entrance through Path",-33.8920298,151.1995113,Train
+730,Redfern,NSW,"Lawson St, Entrance through Path",-33.891563,151.198824,Train
+731,Redfern,NSW,"Marian St, Entrance through Stairs",-33.89270463,151.1981812,Train
+732,Regents Park,NSW,"Amy St, Entrance through Path",-33.8833513,151.0241784,Train
+733,Regents Park,NSW,"Park Rd, Entrance through Stairs",-33.88311577,151.0237932,Train
+734,Regents Park,NSW,"Park Rd, Entrance through Ramp",-33.88324672,151.0237008,Train
+735,Revesby,NSW,"Blamey St, Entrance through Stairs",-33.95270727,151.0154862,Train
+736,Revesby,NSW,"Marco Ave, Entrance through Lift",-33.95235886,151.0153198,Train
+737,Revesby,NSW,"Marco Ave, Entrance through Stairs",-33.95231174,151.0152774,Train
+738,Revesby,NSW,"Blamey St, Entrance through Lift",-33.95273626,151.0152327,Train
+739,Rhodes,NSW,"Blaxland Rd, Entrance through Stairs",-33.83067679,151.0872367,Train
+740,Rhodes,NSW,"Blaxland Rd, Entrance through Lift",-33.83064963,151.0872234,Train
+741,Rhodes,NSW,"Walker St, Entrance through Lift",-33.83045691,151.0868768,Train
+742,Rhodes,NSW,"Walker St, Entrance through Stairs",-33.83064015,151.0868216,Train
+743,Richmond,NSW,"E Market St, Entrance through Stairs",-33.59877109,150.7523098,Train
+744,Richmond,NSW,"E Market St, Entrance through Ramp",-33.5988545,150.7522539,Train
+745,Riverstone,NSW,"Garfield Rd W, Entrance through Path",-33.67976814,150.860729,Train
+746,Riverstone,NSW,"Garfield Rd W, Entrance through Path",-33.67985685,150.8605208,Train
+747,Riverstone,NSW,"Riverstone Pde, Entrance through Path",-33.67905167,150.8604401,Train
+748,Riverwood,NSW,"Belmore Rd, Entrance through Path",-33.9514708,151.0525622,Train
+749,Riverwood,NSW,"Belmore Rd, Entrance through Stairs",-33.95160087,151.0525497,Train
+750,Rockdale,NSW,"Geeves Lane, Entrance through Stairs",-33.9523035,151.1369871,Train
+751,Rockdale,NSW,"Geeves Lane, Entrance through Lift",-33.95248742,151.1368614,Train
+752,Rockdale,NSW,"Geeves Lane, Entrance through Stairs",-33.95258099,151.1368441,Train
+753,Rockdale,NSW,"Railway St, Entrance through Ramp",-33.95191037,151.1364413,Train
+754,Rockdale,NSW,"Railway St, Entrance through Stairs",-33.95221004,151.1362805,Train
+755,Rooty Hill,NSW,"Beames Ave, Entrance through Stairs",-33.77188219,150.8444618,Train
+756,Rooty Hill,NSW,"North  Pde, Entrance through Stairs",-33.7714864,150.8442846,Train
+757,Rooty Hill,NSW,"Beames Ave, Entrance through Ramp",-33.77201339,150.844247,Train
+758,Rooty Hill,NSW,"Rooty Hill North Rd, Entrance through Ramp",-33.77124814,150.8438721,Train
+759,Rosehill,NSW,"James Ruse Dr, Entrance through Stairs",-33.82303843,151.0222311,Train
+760,Rosehill,NSW,"James Ruse Dr, Entrance through Stairs",-33.82322002,151.0222102,Train
+761,Rosehill,NSW,"James Ruse Dr, Entrance through Ramp",-33.82308432,151.0218152,Train
+762,Roseville,NSW,"Hill St, Entrance through Ramp",-33.78434859,151.1778664,Train
+763,Roseville,NSW,"Pacific Hwy, Entrance through Ramp",-33.7846798,151.177749,Train
+764,Rozelle Bay LR,NSW,"Bayview Cres, Entrance through Ramp",-33.87185725,151.1729488,Train
+765,Rozelle Bay LR,NSW,"Bayview Cres, Entrance through Ramp",-33.8719533,151.1729143,Train
+766,Rozelle Bay LR,NSW,"The Crescent , Entrance through Stairs",-33.8717488,151.1728699,Train
+767,Rydalmere,NSW,"Brodie St, Entrance through Path",-33.81015641,151.0294797,Train
+768,Sandgate,NSW,"Astra St, Entrance through Stairs",-32.87279417,151.7028016,Train
+769,Scarborough,NSW,"Railway Ave, Entrance through Stairs",-34.2656783,150.9654965,Train
+770,Scarborough,NSW,"Railway Ave, Entrance through Stairs",-34.26551615,150.9651941,Train
+771,Schofields,NSW,"Railway Tce, Entrance through Path",-33.70483553,150.8742383,Train
+772,Schofields,NSW,"Railway Tce, Entrance through Lift",-33.7044383,150.8740174,Train
+773,Schofields,NSW,"Railway Tce, Entrance through Stairs",-33.70418713,150.8739328,Train
+774,Schofields,NSW,"Bridge St, Entrance through Lift",-33.70454498,150.8736108,Train
+775,Schofields,NSW,"Bridge St, Entrance through Stairs",-33.7043178,150.8735269,Train
+776,Scone,NSW,"Susan St, Entrance through Path",-32.04670656,150.8670728,Train
+777,Sefton,NSW,"Helen St, Entrance through Lift",-33.88516272,151.0118417,Train
+778,Sefton,NSW,"Wellington Rd, Entrance through Lift",-33.88549648,151.0117978,Train
+779,Sefton,NSW,"Helen St, Entrance through Stairs",-33.88516069,151.0116714,Train
+780,Sefton,NSW,"Wellington Rd, Entrance through Stairs",-33.88543207,151.0116221,Train
+781,Seven Hills,NSW,"Prospect Hwy, Entrance through Stairs",-33.77410577,150.9361911,Train
+782,Seven Hills,NSW,"The Hills Cres, Entrance through Lift",-33.77455756,150.9361722,Train
+783,Seven Hills,NSW,"Prospect Hwy, Entrance through Lift",-33.77407161,150.9360893,Train
+784,Seven Hills,NSW,"Prospect Hwy, Entrance through Ramp",-33.77410285,150.9359253,Train
+785,Seven Hills,NSW,"The Hills Cres, Entrance through Ramp",-33.77452,150.935432,Train
+786,Shellharbour,NSW,"Piper Dr, Entrance through Lift",-34.59125149,150.8448185,Train
+787,Shellharbour,NSW,"Piper Dr, Entrance through Stairs",-34.5913074,150.8448018,Train
+788,Shellharbour,NSW,"Piper Dr, Entrance through Lift",-34.59122591,150.8446697,Train
+789,Shellharbour,NSW,"Piper Dr, Entrance through Stairs",-34.59128718,150.8446519,Train
+790,Singleton,NSW,"Munro St, Entrance through Ramp",-32.57196082,151.1656827,Train
+791,Singleton,NSW,"Munro St, Entrance through Ramp",-32.5718537,151.1655409,Train
+792,Singleton,NSW,"Munro St, Entrance through Path",-32.57183342,151.1654861,Train
+793,Springwood,NSW,"Macquarie  Rd, Entrance through Stairs",-33.69918984,150.5636973,Train
+794,Springwood,NSW,"Macquarie  Rd, Entrance through Ramp",-33.69936145,150.5635226,Train
+795,Springwood,NSW,"Station St, Entrance through Ramp",-33.69896475,150.5633045,Train
+796,St James,NSW,"James Rd, Entrance through Stairs",-33.86992775,151.2114985,Train
+797,St James,NSW,"James Rd, Entrance through Ramp",-33.87003326,151.2112893,Train
+798,St James,NSW,"Elizabeth St, Entrance through Lift",-33.870678,151.2104842,Train
+799,St James,NSW,"Elizabeth St, Entrance through Stairs",-33.87074951,151.2104486,Train
+800,St Leonards,NSW,"Sergeants Lane, Entrance through Stairs",-33.82224634,151.1947629,Train
+801,St Leonards,NSW,"Sergeants Lane, Entrance through Lift",-33.82222391,151.1947607,Train
+802,St Leonards,NSW,"Herbert St, Entrance through Lift",-33.82232319,151.1936479,Train
+803,St Leonards,NSW,"Herbert St, Entrance through Stairs",-33.82231649,151.1936088,Train
+804,St Leonards,NSW,"Herbert St, Entrance through Stairs",-33.82246257,151.1934322,Train
+805,St Leonards,NSW,"Herbert St, Entrance through Lift",-33.82243079,151.1933676,Train
+806,St Marys,NSW,"Forrester Rd, Entrance through Lift",-33.76189765,150.7751589,Train
+807,St Marys,NSW,"Station St, Entrance through Lift",-33.76235089,150.7750575,Train
+808,St Marys,NSW,"Forrester Rd, Entrance through Stairs",-33.76188001,150.7749259,Train
+809,St Marys,NSW,"Station St, Entrance through Stairs",-33.76231824,150.774872,Train
+810,St Peters,NSW,"May Lane, Entrance through Path",-33.90745391,151.1808612,Train
+811,St Peters,NSW,"Lord St, Entrance through Path",-33.90694267,151.1806495,Train
+812,Stanmore,NSW,"Douglas St, Entrance through Ramp",-33.89416485,151.1642047,Train
+813,Stanmore,NSW,"Trafalgar St, Entrance through Ramp",-33.89467603,151.1641571,Train
+814,Stanwell Park,NSW,"Railway Cres, Entrance through Stairs",-34.22618328,150.9812344,Train
+815,Stanwell Park,NSW,"Railway Cres, Entrance through Stairs",-34.22614425,150.9810046,Train
+816,Strathfield,NSW,"Everton Rd, Entrance through Lift",-33.87146835,151.0946037,Train
+817,Strathfield,NSW,"Everton Rd, Entrance through Stairs",-33.87134403,151.0944811,Train
+818,Strathfield,NSW,"Strathfield Sq, Entrance through Ramp",-33.87220808,151.0942838,Train
+819,Strathfield,NSW,"Albert Rd, Entrance through Ramp",-33.87185964,151.0938299,Train
+820,Summer Hill,NSW,"Grosvenor  Cres, Entrance through Stairs",-33.8901592,151.1389449,Train
+821,Summer Hill,NSW,"Carlton Cres, Entrance through Lift",-33.89053286,151.1389072,Train
+822,Summer Hill,NSW,"Grosvenor  Cres, Entrance through Lift",-33.89010644,151.1387528,Train
+823,Summer Hill,NSW,"Carlton Cres, Entrance through Stairs",-33.89044157,151.1386413,Train
+824,Summer Hill,NSW,"Carlton Cres, Entrance through Ramp",-33.89043171,151.1386155,Train
+825,Sutherland,NSW,"East Pde, Entrance through Lift",-34.0315702,151.0574323,Train
+826,Sutherland,NSW,"East Pde, Entrance through Path",-34.0315567,151.0573425,Train
+827,Sutherland,NSW,"East Pde, Entrance through Stairs",-34.03183438,151.0569098,Train
+828,Sutherland,NSW,"East Pde, Entrance through Ramp",-34.03183438,151.0569098,Train
+829,Sydenham,NSW,"Gleeson Ave, Entrance through Lift",-33.91491191,151.1661011,Train
+830,Sydenham,NSW,"Gleeson Ave, Entrance through Path",-33.9148634,151.1660472,Train
+831,Tahmoor,NSW,"George  St, Entrance through Path",-34.22358755,150.5902412,Train
+832,Tahmoor,NSW,"Pitt St, Entrance through Path",-34.22346581,150.5898308,Train
+833,Tallong,NSW,"Railway Pde, Entrance through Path",-34.71837568,150.0860928,Train
+834,Tarro,NSW,"Woodberry  Rd, Entrance through Stairs",-32.80882092,151.6694636,Train
+835,Tarro,NSW,"Woodberry  Rd, Entrance through Stairs",-32.80889516,151.6693728,Train
+836,Tascott,NSW,"Brisbane Water Dr, Entrance through Ramp",-33.45083997,151.3188156,Train
+837,Tascott,NSW,"Brisbane Water Dr, Entrance through Stairs",-33.45088295,151.318787,Train
+838,Tascott,NSW,"Glenrock Pde, Entrance through Ramp",-33.45077303,151.3187403,Train
+839,Tascott,NSW,"Glenrock Pde, Entrance through Stairs",-33.45094989,151.3183448,Train
+840,Taverners Hill LR,NSW,"Parramatta  Rd, Entrance through Lift",-33.8895669,151.145176,Train
+841,Taverners Hill LR,NSW,"Parramatta  Rd, Entrance through Lift",-33.88990657,151.1451041,Train
+842,Taverners Hill LR,NSW,"Parramatta  Rd, Entrance through Stairs",-33.88963067,151.1450837,Train
+843,Taverners Hill LR,NSW,"Parramatta  Rd, Entrance through Stairs",-33.8898685,151.1450731,Train
+844,Telarah,NSW,"Johnson St, Entrance through Ramp",-32.72323179,151.5398951,Train
+845,Telarah,NSW,"Johnson St, Entrance through Stairs",-32.72337822,151.5398859,Train
+846,Telopea,NSW,"Sturt St, Entrance through Path",-33.79400629,151.041781,Train
+847,Telopea,NSW,"Sturt St, Entrance through Ramp",-33.79424948,151.0415241,Train
+848,Telopea,NSW,"Sturt St, Entrance through Path",-33.7945703,151.0413839,Train
+849,Telopea,NSW,"Adderton Rd, Entrance through Ramp",-33.79402152,151.0412637,Train
+850,Telopea,NSW,"Adderton Rd, Entrance through Stairs",-33.79411509,151.0411954,Train
+851,Tempe,NSW,"Griffith St, Entrance through Stairs",-33.92369195,151.1567982,Train
+852,Tempe,NSW,"Griffith St, Entrance through Stairs",-33.92394727,151.15675,Train
+853,Tempe,NSW,"Richardson Cres, Entrance through Stairs",-33.92358032,151.1564713,Train
+854,Tempe,NSW,"Richardson Cres, Entrance through Stairs",-33.92389629,151.1563979,Train
+855,Teralba,NSW,"William St, Entrance through Ramp",-32.96276877,151.60415,Train
+856,Teralba,NSW,"William St, Entrance through Path",-32.962727,151.6039263,Train
+857,Teralba,NSW,"Railway St, Entrance through Stairs",-32.96216248,151.6036419,Train
+858,The Star LR,NSW,"Pirrama Rd, Entrance through Path",-33.8672709,151.1957096,Train
+859,Thirroul,NSW,"Station St, Entrance through Stairs",-34.31786015,150.9193757,Train
+860,Thirroul,NSW,"Station St, Entrance through Lift",-34.31799787,150.9192528,Train
+861,Thirroul,NSW,"Railway Pde, Entrance through Path",-34.31788392,150.918865,Train
+862,Thirroul,NSW,"Railway Pde, Entrance through Stairs",-34.31795869,150.9188517,Train
+863,Thornleigh,NSW,"Railway Pde, Entrance through Path",-33.73207901,151.0783738,Train
+864,Thornleigh,NSW,"Railway Pde, Entrance through Stairs",-33.73211866,151.0783327,Train
+865,Thornleigh,NSW,"The Esplanade , Entrance through Stairs",-33.73180916,151.0781183,Train
+866,Thornton,NSW,"Karuah  St, Entrance through Stairs",-32.78357334,151.6399935,Train
+867,Thornton,NSW,"Karuah  St, Entrance through Lift",-32.78356119,151.6399551,Train
+868,Toongabbie,NSW,"Wentworth Ave, Entrance through Ramp",-33.78699939,150.9516071,Train
+869,Toongabbie,NSW,"Portice Pde, Entrance through Ramp",-33.78714281,150.9511669,Train
+870,Town Hall,NSW,"George St, Entrance through Stairs",-33.87317129,151.2071252,Train
+871,Town Hall,NSW,"George St, Entrance through Stairs",-33.87357692,151.2070647,Train
+872,Town Hall,NSW,"George St, Entrance through Lift",-33.87389408,151.2070208,Train
+873,Town Hall,NSW,"George St, Entrance through Stairs",-33.87394872,151.2070088,Train
+874,Town Hall,NSW,"George St, Entrance through Stairs",-33.87324335,151.2067182,Train
+875,Town Hall,NSW,"George St, Entrance through Stairs",-33.87300204,151.2066961,Train
+876,Town Hall,NSW,"George St, Entrance through Stairs",-33.87416617,151.2066678,Train
+877,Town Hall,NSW,"George St, Entrance through Stairs",-33.87370422,151.206619,Train
+878,Town Hall,NSW,"Kent St, Entrance through Path",-33.87346213,151.2056759,Train
+879,Towradgi,NSW,"Towradgi Rd, Entrance through Ramp",-34.38408404,150.9016675,Train
+880,Towradgi,NSW,"Towradgi Rd, Entrance through Ramp",-34.38412652,150.9013586,Train
+881,Tuggerah,NSW,"Bryant Dr, Entrance through Ramp",-33.3077456,151.4204201,Train
+882,Tuggerah,NSW,"Bryant Dr, Entrance through Stairs",-33.3077456,151.4204201,Train
+883,Tuggerah,NSW,"Pacific Hwy, Entrance through Ramp",-33.30747496,151.4200755,Train
+884,Tuggerah,NSW,"Pacific Hwy, Entrance through Stairs",-33.30767799,151.4200382,Train
+885,Turramurra,NSW,"Rohini St, Entrance through Path",-33.73258953,151.1290978,Train
+886,Turramurra,NSW,"William St, Entrance through Path",-33.73287787,151.128659,Train
+887,Turrella,NSW,"Reede St, Entrance through Stairs",-33.92977422,151.1404283,Train
+888,Unanderra,NSW,"Berkeley Rd, Entrance through Stairs",-34.45512841,150.8460834,Train
+889,Unanderra,NSW,"Berkeley Rd, Entrance through Stairs",-34.45480327,150.8454954,Train
+890,Valley Heights,NSW,"Great Western Hwy, Entrance through Stairs",-33.70388256,150.5840807,Train
+891,Valley Heights,NSW,"Great Western Hwy, Entrance through Ramp",-33.70385585,150.5840194,Train
+892,Valley Heights,NSW,"Great Western Hwy, Entrance through Stairs",-33.70414867,150.5836892,Train
+893,Victoria Street,NSW,"Waller St, Entrance through Stairs",-32.75096544,151.5941378,Train
+894,Victoria Street,NSW,"Victoria St, Entrance through Stairs",-32.7511242,151.5937962,Train
+895,Villawood,NSW,"Villawood St, Entrance through Stairs",-33.88092102,150.9773626,Train
+896,Villawood,NSW,"River Ave, Entrance through Stairs",-33.88074082,150.9773471,Train
+897,Vineyard,NSW,"Bandon Rd, Entrance through Ramp",-33.65018802,150.851063,Train
+898,Wahroonga,NSW,"Redleaf Ave, Entrance through Stairs",-33.71800187,151.1175185,Train
+899,Waitara,NSW,"Alexandria Pde, Entrance through Path",-33.71028639,151.105246,Train
+900,Waitara,NSW,"Waitara Ave, Entrance through Stairs",-33.71065655,151.1049153,Train
+901,Wallarobba,NSW,"Wallarobba Brookfield Rd, Entrance through Ramp",-32.49615032,151.6956921,Train
+902,Warabrook,NSW,"Eucalyptus  Cres, Entrance through Ramp",-32.88698384,151.7111872,Train
+903,Warabrook,NSW,"Ring Rd, Entrance through Ramp",-32.88848678,151.709521,Train
+904,Waratah,NSW,"Platt St, Entrance through Stairs",-32.90210317,151.731215,Train
+905,Waratah,NSW,"Platt St, Entrance through Stairs",-32.902354,151.7310238,Train
+906,Waratah Mills LR,NSW,"Davis St, Entrance through Path",-33.8989622,151.140003,Train
+907,Waratah Mills LR,NSW,"Weston St, Entrance through Path",-33.8988126,151.1398647,Train
+908,Warnervale,NSW,"Warnervale Rd, Entrance through Path",-33.2473843,151.4491366,Train
+909,Warnervale,NSW,"Warnervale Rd, Entrance through Path",-33.24713278,151.4488456,Train
+910,Warrawee,NSW,"Warrawee Ave, Entrance through Path",-33.72439373,151.1220398,Train
+911,Warrawee,NSW,"Heydon Ave, Entrance through Path",-33.72454128,151.1217229,Train
+912,Warrimoo,NSW,"Railway Pde, Entrance through Stairs",-33.72132609,150.6029511,Train
+913,Warrimoo,NSW,"Great Western Hwy, Entrance through Stairs",-33.721589,150.6027819,Train
+914,Warrimoo,NSW,"Great Western Hwy, Entrance through Ramp",-33.7215927,150.6027681,Train
+915,Warrimoo,NSW,"Great Western Hwy, Entrance through Ramp",-33.72206858,150.602657,Train
+916,Warrimoo,NSW,"Great Western Hwy, Entrance through Stairs",-33.72204408,150.6025654,Train
+917,Warwick Farm,NSW,"Warwick St, Entrance through Stairs",-33.91318088,150.9353246,Train
+918,Warwick Farm,NSW,"Warwick St, Entrance through Lift",-33.91340518,150.9352764,Train
+919,Warwick Farm,NSW,"Remembrance Ave, Entrance through Lift",-33.91324659,150.9349959,Train
+920,Warwick Farm,NSW,"Remembrance Ave, Entrance through Stairs",-33.91347354,150.9349611,Train
+921,Waterfall,NSW,"Kooraban St, Entrance through Ramp",-34.13517267,150.994605,Train
+922,Waverton,NSW,"Bay Rd, Entrance through Path",-33.83756728,151.1974683,Train
+923,Waverton,NSW,"Bay Rd, Entrance through Path",-33.83761043,151.1973366,Train
+924,Wentworth Falls,NSW,"Railway Pde, Entrance through Stairs",-33.70932977,150.3764898,Train
+925,Wentworth Falls,NSW,"Station St, Entrance through Stairs",-33.70952535,150.3761198,Train
+926,Wentworth Park LR,NSW,"Pyrmont Bridge Rd, Entrance through Path",-33.8742417,151.1940945,Train
+927,Wentworth Park LR,NSW,"Wattle St, Entrance through Ramp",-33.87506758,151.1935385,Train
+928,Wentworthville,NSW,"Wentworth Ave, Entrance through Stairs",-33.80686889,150.9725242,Train
+929,Wentworthville,NSW,"The Kingsway , Entrance through Stairs",-33.80725292,150.972304,Train
+930,Wentworthville,NSW,"Wentworth Ave, Entrance through Ramp",-33.80667668,150.971932,Train
+931,Wentworthville,NSW,"The Kingsway , Entrance through Ramp",-33.80706875,150.9718275,Train
+932,Werrington,NSW,"Victoria Lane, Entrance through Stairs",-33.7590496,150.7575668,Train
+933,Werrington,NSW,"Railway St, Entrance through Stairs",-33.75924963,150.7575314,Train
+934,Werrington,NSW,"Victoria Lane, Entrance through Lift",-33.75903757,150.7574454,Train
+935,Werrington,NSW,"Railway St, Entrance through Lift",-33.75920751,150.7574014,Train
+936,West Ryde,NSW,"Railway Pde, Entrance through Stairs",-33.80746637,151.0905793,Train
+937,West Ryde,NSW,"Railway Pde, Entrance through Lift",-33.80747159,151.0904036,Train
+938,West Ryde,NSW,"West Pde, Entrance through Ramp",-33.80687546,151.0901576,Train
+939,West Ryde,NSW,"West Pde, Entrance through Ramp",-33.80704425,151.0900831,Train
+940,West Ryde,NSW,"West Pde, Entrance through Stairs",-33.8074677,151.0899608,Train
+941,Westmead,NSW,"Railway Pde, Entrance through Stairs",-33.80836116,150.9881873,Train
+942,Westmead,NSW,"Alexandria Ave, Entrance through Stairs",-33.80870858,150.9878707,Train
+943,Westmead,NSW,"Railway Pde, Entrance through Ramp",-33.80819002,150.9877158,Train
+944,Westmead,NSW,"Alexandria Ave, Entrance through Ramp",-33.80864182,150.9876577,Train
+945,Wiley Park,NSW,"King Georges  Rd, Entrance through Ramp",-33.92278182,151.0680626,Train
+946,Wiley Park,NSW,"King Georges  Rd, Entrance through Ramp",-33.92270486,151.0680185,Train
+947,Windsor,NSW,"George St, Entrance through Path",-33.61362381,150.8111058,Train
+948,Windsor,NSW,"Cox St, Entrance through Path",-33.61292723,150.8090296,Train
+949,Wingello,NSW,"Railway Pde, Entrance through Path",-34.69233579,150.1583818,Train
+950,Wingello,NSW,"Sydney St, Entrance through Path",-34.69201661,150.1582058,Train
+951,Wirragula,NSW,"Dungog Rd, Entrance through Ramp",-32.46292679,151.7424687,Train
+952,Wolli,NSW,"Brodie Spark Dr, Entrance through Stairs",-33.92867126,151.1544432,Train
+953,Wolli,NSW,"Brodie Spark Dr, Entrance through Lift",-33.92868435,151.1543587,Train
+954,Wolli,NSW,"Discovery Point Pl, Entrance through Lift",-33.92884985,151.1538917,Train
+955,Wolli,NSW,"Discovery Point Pl, Entrance through Stairs",-33.92882963,151.153842,Train
+956,Wollongong,NSW,"Crown St, Entrance through Path",-34.42582725,150.8886385,Train
+957,Wollongong,NSW,"Station St, Entrance through Stairs",-34.42673344,150.8885596,Train
+958,Wollongong,NSW,"Station St, Entrance through Path",-34.42698795,150.8884363,Train
+959,Wollongong,NSW,"Crown St, Entrance through Lift",-34.42645671,150.8884344,Train
+960,Wollongong,NSW,"Crown St, Entrance through Lift",-34.42642506,150.8882201,Train
+961,Wollongong,NSW,"Crown St, Entrance through Path",-34.42587253,150.8882123,Train
+962,Wollongong,NSW,"Railway Staiton Sq, Entrance through Path",-34.42720865,150.8879475,Train
+963,Wollongong,NSW,"Railway Staiton Sq, Entrance through Ramp",-34.42679193,150.8878175,Train
+964,Wollstonecraft,NSW,"Milner Cres, Entrance through Path",-33.8315907,151.1925953,Train
+965,Wollstonecraft,NSW,"Shirley Rd, Entrance through Ramp",-33.83245952,151.1921823,Train
+966,Wollstonecraft,NSW,"Shirley Rd, Entrance through Path",-33.8326745,151.1917926,Train
+967,Wollstonecraft,NSW,"Milray Ave, Entrance through Path",-33.83146743,151.1915732,Train
+968,Wombarra,NSW,"Morrison Ave, Entrance through Stairs",-34.27545316,150.9536753,Train
+969,Wombarra,NSW,"Morrison Ave, Entrance through Stairs",-34.27530416,150.9535083,Train
+970,Wondabyne,NSW,"Wondabyne Wharf , Entrance through Ramp",-33.49202131,151.2571482,Train
+971,Woodford,NSW,"Railway Pde, Entrance through Stairs",-33.7357511,150.4821963,Train
+972,Woodford,NSW,"Great Western Hwy, Entrance through Ramp",-33.73546893,150.4818417,Train
+973,Woodford,NSW,"Great Western Hwy, Entrance through Ramp",-33.73526715,150.4808855,Train
+974,Woolooware,NSW,"Swan St N, Entrance through Stairs",-34.04741225,151.1437622,Train
+975,Woolooware,NSW,"Swan St N, Entrance through Lift",-34.04744884,151.1437013,Train
+976,Woolooware,NSW,"Swan St, Entrance through Stairs",-34.04769831,151.1436487,Train
+977,Woolooware,NSW,"Swan St, Entrance through Lift",-34.04765603,151.1435849,Train
+978,Woonona,NSW,"Park Rd, Entrance through Ramp",-34.34939351,150.9153897,Train
+979,Woonona,NSW,"Railway Pde, Entrance through Stairs",-34.34956158,150.91536,Train
+980,Woonona,NSW,"Park Rd, Entrance through Ramp",-34.34932926,150.9151104,Train
+981,Woy Woy,NSW,"Blackwall Rd, Entrance through Path",-33.48597397,151.324352,Train
+982,Woy Woy,NSW,"Railway St, Entrance through Ramp",-33.48527377,151.3237255,Train
+983,Woy Woy,NSW,"Railway St, Entrance through Lift",-33.48585711,151.3233847,Train
+984,Woy Woy,NSW,"Railway St, Entrance through Stairs",-33.48597825,151.3232156,Train
+985,Wyee,NSW,"Wyee Rd, Entrance through Ramp",-33.17984054,151.48724,Train
+986,Wyee,NSW,"Gorokan Rd, Entrance through Stairs",-33.180164,151.4868566,Train
+987,Wynyard,NSW,"Carrington St, Entrance through Stairs",-33.86553906,151.2063145,Train
+988,Wynyard,NSW,"Carrington St, Entrance through Stairs",-33.86583394,151.2062822,Train
+989,Wynyard,NSW,"Carrington St, Entrance through Path",-33.86572268,151.206269,Train
+990,Wynyard,NSW,"Carrington St, Entrance through Lift",-33.86570502,151.2061027,Train
+991,Wynyard,NSW,"York St, Entrance through Stairs",-33.86566282,151.2059726,Train
+992,Wynyard,NSW,"York St, Entrance through Stairs",-33.86575654,151.2059633,Train
+993,Wynyard,NSW,"York St, Entrance through Path",-33.86560119,151.2055201,Train
+994,Wynyard,NSW,"Jamison St, Entrance through Path",-33.86445369,151.2053161,Train
+995,Wynyard,NSW,"Clarence St, Entrance through Lift",-33.86572968,151.2050799,Train
+996,Wynyard,NSW,"Clarence St, Entrance through Path",-33.86564376,151.2050042,Train
+997,Wynyard,NSW,"Clarence St, Entrance through Stairs",-33.86562889,151.2048,Train
+998,Wynyard,NSW,"Napoleon St, Entrance through Path",-33.86524696,151.20397,Train
+999,Wynyard,NSW,"Napoleon St, Entrance through Lift",-33.86534132,151.203967,Train
+1000,Wyong,NSW,"Howarth St, Entrance through Stairs",-33.28508373,151.4255992,Train
+1001,Wyong,NSW,"Howarth St, Entrance through Lift",-33.2853325,151.4255494,Train
+1002,Wyong,NSW,"Pacific Hwy, Entrance through Lift",-33.28524935,151.4252208,Train
+1003,Wyong,NSW,"Pacific Hwy, Entrance through Stairs",-33.2853225,151.4251587,Train
+1004,Yagoona,NSW,"Hume Hwy, Entrance through Path",-33.90733106,151.0246767,Train
+1005,Yennora,NSW,"Railway St, Entrance through Stairs",-33.86488282,150.97104,Train
+1006,Yennora,NSW,"Nelson Rd, Entrance through Stairs",-33.86462082,150.9709456,Train
+1007,Yennora,NSW,"Railway St, Entrance through Stairs",-33.86498836,150.9708084,Train
+1008,Yennora,NSW,"Railway St, Entrance through Ramp",-33.86502912,150.9707162,Train
+1009,Yerrinbool,NSW,"Old Hume Hwy, Entrance through Path",-34.37159251,150.5434481,Train
+1010,Zig Zag,NSW,"Bells Rd, Entrance through Stairs",-33.47184198,150.2021194,Train
